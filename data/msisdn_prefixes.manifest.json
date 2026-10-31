@@ -1,0 +1,18 @@
+{
+  "key": "msisdn_prefixes",
+  "name": "Kenyan mobile number prefixes (NDC allocations)",
+  "version": "0.1.0",
+  "source": "Communications Authority of Kenya - Telecommunication Numbering Plan for Kenya (CA/SRM/S&N/NNP/APRIL/2026), section 1.1(b)",
+  "source_url": "https://www.ca.go.ke/sites/default/files/2026-04/Numbering%20Plan%20Kenya%20April%202026.pdf",
+  "other_sources": [
+    "https://ca.go.ke/sites/default/files/CA/Numbering%20Plan/Telecommunication%20Numbering%20Plan%20for%20Kenya%20May%202025.pdf"
+  ],
+  "as_of": "2026-04-01",
+  "retrieved": "2026-11-01",
+  "row_count": 130,
+  "sha256": "4eae8e28b4365321cca8ffc0d86b38c602f7038df4ed2364875d48cc734e5ca5",
+  "natural_key": [
+    "prefix"
+  ],
+  "notes": "CA allocates mobile numbers by 3-digit NDC (N(S)N length 9), so each row is 254 + NDC (e.g. 254712 = 0712xxxxxx). Ranges in the plan (e.g. '700 to 709') are expanded one row per NDC; NDCs not listed in the plan (e.g. 121-123, 125, 127, 129, 131-139, 147-198, 767) are unassigned and omitted. Operator = assignee name as printed (757-759 printed 'Safaricom Ltd', normalised to Safaricom PLC). 254749 is assigned to IEBC for KIEMS kits; 254199 is a shared test/research resource (service=test, operator blank). Equitel = Finserve Africa Ltd; Faiba = Jamii Telecoms Ltd (brand notes added). Change vs May 2025 plan: Safaricom 110-117 extended to 110-119. MOBILE NUMBER PORTABILITY applies in Kenya: the prefix shows the ORIGINAL allocation, not the subscriber's current operator. The plan's 'Reclaimed numbers' section (individual MSISDNs) is not reflected. as_of = plan edition month (April 2026; no day stated). Left out of the package because a required column is blank in the source: 254199,,test,NDC 199 (national 0199); Shared resource for internal use for purposes of network testing, experimentation and research."
+}

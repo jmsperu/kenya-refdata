@@ -1,0 +1,620 @@
+code,name,level,parent_code,active
+1,Managers,major,,1
+11,"Chief Executives, Senior Officials and Legislators",sub_major,1,1
+111,Legislators and Senior Officials,minor,11,1
+1111,Legislators,unit,111,1
+1112,Senior Government Officials,unit,111,1
+1113,Traditional Chiefs and Heads of Villages,unit,111,1
+1114,Senior Officials of Special-interest Organizations,unit,111,1
+112,Managing Directors and Chief Executives,minor,11,1
+1120,Managing Directors and Chief Executives,unit,112,1
+12,Administrative and Commercial Managers,sub_major,1,1
+121,Business Services and Administration Managers,minor,12,1
+1211,Finance Managers,unit,121,1
+1212,Human Resource Managers,unit,121,1
+1213,Policy and Planning Managers,unit,121,1
+1219,Business Services and Administration Managers Not Elsewhere Classified,unit,121,1
+122,"Sales, Marketing and Development Managers",minor,12,1
+1221,Sales and Marketing Managers,unit,122,1
+1222,Advertising and Public Relations Managers,unit,122,1
+1223,Research and Development Managers,unit,122,1
+13,Production and Specialized Services Managers,sub_major,1,1
+131,"Production Managers in Agriculture, Forestry and Fisheries",minor,13,1
+1311,Agricultural and Forestry Production Managers,unit,131,1
+1312,Aquaculture and Fisheries Production Managers,unit,131,1
+132,"Manufacturing, Mining, Construction and Distribution Managers",minor,13,1
+1321,Manufacturing Managers,unit,132,1
+1322,Mining Managers,unit,132,1
+1323,Construction Managers,unit,132,1
+1324,"Supply, Distribution and Related Managers",unit,132,1
+133,Information and Communications Technology Service managers,minor,13,1
+1330,Information and Communications Technology Service Managers,unit,133,1
+134,Professional Services Managers,minor,13,1
+1341,Child Care Service Managers,unit,134,1
+1342,Health Service Managers,unit,134,1
+1343,Aged Care Service Managers,unit,134,1
+1344,Social Welfare Managers,unit,134,1
+1345,Education Managers,unit,134,1
+1346,Financial and Insurance Services Branch managers,unit,134,1
+1349,Professional Services Managers Not Elsewhere Classified,unit,134,1
+14,"Hospitality, Retail and Other Services Managers",sub_major,1,1
+141,Hotel and Restaurant Managers,minor,14,1
+1411,Hotel Managers,unit,141,1
+1412,Restaurant Managers,unit,141,1
+142,Retail and Wholesale Trade Managers,minor,14,1
+1420,Retail and Wholesale Trade Managers,unit,142,1
+143,Other Services Managers,minor,14,1
+1431,"Sports, Recreation and Cultural Centre Managers",unit,143,1
+1439,Services Managers Not Elsewhere Classified,unit,143,1
+2,Professionals,major,,1
+21,Science and Engineering Professionals,sub_major,2,1
+211,Physical and Earth Science Professionals,minor,21,1
+2111,Physicists and Astronomers,unit,211,1
+2112,Meteorologists,unit,211,1
+2113,Chemists,unit,211,1
+2114,Geologists and geophysicists,unit,211,1
+212,"Mathematicians, Actuaries and Statisticians",minor,21,1
+2120,"Mathematicians, Actuaries and Statisticians",unit,212,1
+213,Life Science Professionals,minor,21,1
+2131,"Biologists, Botanists, Zoologists and Related Professionals",unit,213,1
+2132,"Farming, Forestry and Fisheries Advisers",unit,213,1
+2133,Environmental Protection Professionals,unit,213,1
+214,Engineering Professionals (excluding Electrotechnology),minor,21,1
+2141,Industrial and Production Engineers,unit,214,1
+2142,Civil Engineers,unit,214,1
+2143,Environmental Engineers,unit,214,1
+2144,Mechanical Engineers,unit,214,1
+2145,Chemical Engineers,unit,214,1
+2146,"Mining Engineers, Metallurgists and Related Professionals",unit,214,1
+2149,Engineering Professionals Not Elsewhere Classified,unit,214,1
+215,Electrotechnology Engineers,minor,21,1
+2151,Electrical Engineers,unit,215,1
+2152,Electronics Engineers,unit,215,1
+2153,Telecommunications Engineers,unit,215,1
+216,"Architects, Planners, Surveyors and Designers",minor,21,1
+2161,Building Architects,unit,216,1
+2162,Landscape Architects,unit,216,1
+2163,Product and Garment Designers,unit,216,1
+2164,Town and Traffic Planners,unit,216,1
+2165,Cartographers and Surveyors,unit,216,1
+2166,Graphic and Multimedia Designers,unit,216,1
+22,Health Professionals,sub_major,2,1
+221,Medical Doctors,minor,22,1
+2211,Generalist Medical Practitioners,unit,221,1
+2212,Specialist Medical Practitioners,unit,221,1
+222,Nursing and Midwifery Professionals,minor,22,1
+2221,Nursing Professionals,unit,222,1
+2222,Midwifery Professionals,unit,222,1
+223,Traditional and Complementary Medicine Professionals,minor,22,1
+2230,Traditional and Complementary Medicine Professionals,unit,223,1
+224,Paramedical Practitioners,minor,22,1
+2240,Paramedical Practitioners,unit,224,1
+225,Veterinarians,minor,22,1
+2250,Veterinarians,unit,225,1
+226,Other Health Professionals,minor,22,1
+2261,Dentists,unit,226,1
+2262,Pharmacists,unit,226,1
+2263,Environmental and Occupational Health and Hygiene Professionals,unit,226,1
+2264,Physiotherapists,unit,226,1
+2265,Dieticians and Nutritionists,unit,226,1
+2266,Audiologists and Speech Therapists,unit,226,1
+2267,Optometrists and Ophthalmic Opticians,unit,226,1
+2269,Health Professionals Not Elsewhere Classified,unit,226,1
+23,Teaching Professionals,sub_major,2,1
+231,University and Higher Education Teachers,minor,23,1
+2310,University and Higher Education Teachers,unit,231,1
+232,Vocational education teachers,minor,23,1
+2320,Vocational Education Teachers,unit,232,1
+233,Secondary Education Teachers,minor,23,1
+2330,Secondary Education Teachers,unit,233,1
+234,Primary School and Early Childhood Teachers,minor,23,1
+2341,Primary School Teachers,unit,234,1
+2342,Early Childhood Educators,unit,234,1
+235,Other Teaching Professionals,minor,23,1
+2351,Education Methods Specialists,unit,235,1
+2352,Special Needs Teachers,unit,235,1
+2353,Other Language Teachers,unit,235,1
+2354,Other Music Teachers,unit,235,1
+2355,Other Arts Teachers,unit,235,1
+2356,Information Technology Trainers,unit,235,1
+2359,Teaching Professionals Not Elsewhere Classified,unit,235,1
+24,Business and Administration Professionals,sub_major,2,1
+241,Finance Professionals,minor,24,1
+2411,Accountants,unit,241,1
+2412,Financial and Investment Advisers,unit,241,1
+2413,Financial Analysts,unit,241,1
+242,Administration Professionals,minor,24,1
+2421,Management and Organization Analysts,unit,242,1
+2422,Policy Administration Professionals,unit,242,1
+2423,Personnel and Careers Professionals,unit,242,1
+2424,Training and Staff Development Professionals,unit,242,1
+243,"Sales, Marketing and Public Relations Professionals",minor,24,1
+2431,Advertising and Marketing Professionals,unit,243,1
+2432,Public Relations Professionals,unit,243,1
+2433,Technical and Medical Sales Professionals (excluding ICT),unit,243,1
+2434,Information and Communications Technology Sales Professionals,unit,243,1
+25,Information and Communications Technology Professionals,sub_major,2,1
+251,Software and Applications Developers and Analysts,minor,25,1
+2511,Systems Analysts,unit,251,1
+2512,Software Developers,unit,251,1
+2513,Web and Multimedia Developers,unit,251,1
+2514,Applications Programmers,unit,251,1
+2519,Software and Applications Developers and Analysts Not Elsewhere Classified,unit,251,1
+252,Database and Network Professionals,minor,25,1
+2521,Database Designers and Administrators,unit,252,1
+2522,Systems Aministrators,unit,252,1
+2523,Computer Network Professionals,unit,252,1
+2529,Database and Network Professionals Not Elsewhere Classified,unit,252,1
+26,"Legal, Social and Cultural Professionals",sub_major,2,1
+261,Legal Professionals,minor,26,1
+2611,Lawyers,unit,261,1
+2612,Judges,unit,261,1
+2619,Legal Professionals Not Elsewhere Classified,unit,261,1
+262,"Librarians, Archivists and Curators",minor,26,1
+2621,Archivists and Curators,unit,262,1
+2622,Librarians and Related Information Professionals,unit,262,1
+263,Social and Religious Professionals,minor,26,1
+2631,Economists,unit,263,1
+2632,"Sociologists, Anthropologists and Related Professionals",unit,263,1
+2633,"Philosophers, Historians and Political Scientists",unit,263,1
+2634,Psychologists,unit,263,1
+2635,Social Work and Counselling Professionals,unit,263,1
+2636,Religious Professionals,unit,263,1
+264,"Authors, Journalists and Linguists",minor,26,1
+2641,Authors and Related Writers,unit,264,1
+2642,Journalists,unit,264,1
+2643,"Translators, Interpreters and Other Linguists",unit,264,1
+265,Creative and Performing Artists,minor,26,1
+2651,Visual Artists,unit,265,1
+2652,"Musicians, Singers and Composers",unit,265,1
+2653,Dancers and Choreographers,unit,265,1
+2654,"Film, Stage and Related Directors and Producers",unit,265,1
+2655,Actors,unit,265,1
+2656,"Announcers on Radio, Television and Other Media",unit,265,1
+2659,Creative and Performing Artists Not Elsewhere Classified,unit,265,1
+3,Technicians and Associate Professionals,major,,1
+31,Science and Engineering Associate Professionals,sub_major,3,1
+311,Physical and Engineering Science Technicians,minor,31,1
+3111,Chemical and Physical Science Technicians,unit,311,1
+3112,Civil Engineering Technicians,unit,311,1
+3113,Electrical Engineering Technicians,unit,311,1
+3114,Electronics Engineering Technicians,unit,311,1
+3115,Mechanical Engineering Technicians,unit,311,1
+3116,Chemical Engineering Technicians,unit,311,1
+3117,Mining and metallurgical technicians,unit,311,1
+3118,Draughtspersons,unit,311,1
+3119,Physical and Engineering Science Technicians Not Elsewhere Classified,unit,311,1
+312,"Mining, Manufacturing and Construction Supervisors",minor,31,1
+3121,Mining Supervisors,unit,312,1
+3122,Manufacturing Supervisors,unit,312,1
+3123,Construction Supervisors,unit,312,1
+313,Process Control Technicians,minor,31,1
+3131,Power Production Plant Operators,unit,313,1
+3132,Incinerator and Water Treatment Plant Operators,unit,313,1
+3133,Chemical Processing Plant Controllers,unit,313,1
+3134,Petroleum and Natural Gas Refining Plant Operators,unit,313,1
+3135,Metal Production Process Controllers,unit,313,1
+3139,Process Control Technicians Not Elsewhere Classified,unit,313,1
+314,Life Science Technicians and Related Associate Professionals,minor,31,1
+3141,Life Science Technicians (excluding Medical),unit,314,1
+3142,Agricultural Technicians,unit,314,1
+3143,Forestry Technicians,unit,314,1
+315,Ship and Aircraft Controllers and Technicians,minor,31,1
+3151,Ships' Engineers,unit,315,1
+3152,Ships' Deck Officers and Pilots,unit,315,1
+3153,Aircraft Pilots and Related Associate Professionals,unit,315,1
+3154,Air Traffic Controllers,unit,315,1
+3155,Air Traffic Safety Electronics Technicians,unit,315,1
+32,Health Associate Professionals,sub_major,3,1
+321,Medical and Pharmaceutical Technicians,minor,32,1
+3211,Medical Imaging and Therapeutic Equipment Technicians,unit,321,1
+3212,Medical and Pathology Laboratory Technicians,unit,321,1
+3213,Pharmaceutical Technicians and Assistants,unit,321,1
+3214,Medical and Dental Prosthetic Technicians,unit,321,1
+322,Nursing and Midwifery Associate Professionals,minor,32,1
+3221,Nursing Associate Professionals,unit,322,1
+3222,Midwifery Associate Professionals,unit,322,1
+323,Traditional and Complementary Medicine Associate Professionals,minor,32,1
+3230,Traditional and Complementary Medicine Associate Professionals,unit,323,1
+324,Veterinary Technicians and Assistants,minor,32,1
+3240,Veterinary Technicians and Assistants,unit,324,1
+325,Other Health Associate Professionals,minor,32,1
+3251,Dental Assistants and Therapists,unit,325,1
+3252,Medical Records and Health Information Technicians,unit,325,1
+3253,Community Health Workers,unit,325,1
+3254,Dispensing Opticians,unit,325,1
+3255,Physiotherapy Technicians and Assistants,unit,325,1
+3256,Medical Assistants,unit,325,1
+3257,Environmental and Occupational Health Inspectors and Associates,unit,325,1
+3258,Ambulance Workers,unit,325,1
+3259,Health Associate Professionals Not Elsewhere Classified,unit,325,1
+33,Business and Administration Associate Professionals,sub_major,3,1
+331,Financial and Mathematical Associate Professionals,minor,33,1
+3311,Securities and Finance Dealers and Brokers,unit,331,1
+3312,Credit and Loans Officers,unit,331,1
+3313,Accounting Associate Professionals,unit,331,1
+3314,"Statistical, Mathematical and Related Associate Professionals",unit,331,1
+3315,Valuers and Loss Assessors,unit,331,1
+332,Sales and Purchasing Agents and Brokers,minor,33,1
+3321,Insurance Representatives,unit,332,1
+3322,Commercial Sales Representatives,unit,332,1
+3323,Buyers,unit,332,1
+3324,Trade Brokers,unit,332,1
+333,Business Services Agents,minor,33,1
+3331,Clearing and Forwarding Aents,unit,333,1
+3332,Conference and Event Planners,unit,333,1
+3333,Employment agents and contractors,unit,333,1
+3334,Real Estate Agents and Property Managers,unit,333,1
+3339,Business Services Agents Not Elsewhere Classified,unit,333,1
+334,Administrative and Specialized Secretaries,minor,33,1
+3341,Office Supervisors,unit,334,1
+3342,Legal Secretaries,unit,334,1
+3343,Administrative and Executive Secretaries,unit,334,1
+3344,Medical Secretaries,unit,334,1
+335,Government Regulatory Associate Professionals,minor,33,1
+3351,Customs and Border Inspectors,unit,335,1
+3352,Government Tax and Excise Officials,unit,335,1
+3353,Government Social Benefits Officials,unit,335,1
+3354,Government Licensing Officials,unit,335,1
+3355,Police Inspectors and Detectives,unit,335,1
+3359,Government Regulatory AssociatePprofessionals Not Elsewhere Classified,unit,335,1
+34,"Legal, Social, Cultural and Related Associate Professionals",sub_major,3,1
+341,"Legal, Social and Religious Associate Professionals",minor,34,1
+3411,Legal and Related Associate Professionals,unit,341,1
+3412,Social Work Associate Professionals,unit,341,1
+3413,Religious Associate Professionals,unit,341,1
+342,Sports and Fitness Workers,minor,34,1
+3421,Athletes and Sports Players,unit,342,1
+3422,"Sports Coaches, Instructors and Officials",unit,342,1
+3423,Fitness and Recreation Instructors and Programme Leaders,unit,342,1
+343,"Artistic, Cultural and Culinary Associate Professionals",minor,34,1
+3431,Photographers,unit,343,1
+3432,Interior Designers and Decorators,unit,343,1
+3433,"Gallery, Museum and Library Technicians",unit,343,1
+3434,Chefs,unit,343,1
+3435,Other Artistic and Cultural Associate Professionals,unit,343,1
+35,Information and Communications Technicians,sub_major,3,1
+351,Information and Communications Technology Operations and User Support Technicians,minor,35,1
+3511,Information and Communications Technology Operations Technicians,unit,351,1
+3512,Information and Communications Technology User Support Technicians,unit,351,1
+3513,Computer Network and Systems Technicians,unit,351,1
+3514,Web Technicians,unit,351,1
+352,Telecommunications and Broadcasting Technicians,minor,35,1
+3521,Broadcasting and Audio-visual Technicians,unit,352,1
+3522,Telecommunications Engineering Technicians,unit,352,1
+4,Clerical Support Workers,major,,1
+41,General and Keyboard Clerks,sub_major,4,1
+411,General Office Clerks,minor,41,1
+4110,General Office Clerks,unit,411,1
+412,Secretaries (general),minor,41,1
+4120,Secretaries (general),unit,412,1
+413,Keyboard Operators,minor,41,1
+4131,Typists and Word Processing Operators,unit,413,1
+4132,Data Entry Clerks,unit,413,1
+42,Customer Services Clerks,sub_major,4,1
+421,"Tellers, Money Collectors and Related Clerks",minor,42,1
+4211,Bank Tellers and Related Clerks,unit,421,1
+4212,"Bookmakers, Croupiers and Related Gaming Workers",unit,421,1
+4213,Pawnbrokers and Money-lenders,unit,421,1
+4214,Debt Collectors and Related Workers,unit,421,1
+422,Client Information Workers,minor,42,1
+4221,Travel Consultants and Clerks,unit,422,1
+4222,Contact Centre Information Clerks,unit,422,1
+4223,Telephone Switchboard Operators,unit,422,1
+4224,Hotel Receptionists,unit,422,1
+4225,Inquiry Clerks,unit,422,1
+4226,Receptionists (general),unit,422,1
+4227,Survey and Market Research Interviewers,unit,422,1
+4229,Client Information Workers Not Elsewhere Classified,unit,422,1
+43,Numerical and Material Recording Clerks,sub_major,4,1
+431,Numerical Clerks,minor,43,1
+4311,Accounting and Bookkeeping Clerks,unit,431,1
+4312,"Statistical, Finance and Insurance Clerks",unit,431,1
+4313,Payroll Clerks,unit,431,1
+432,Material Recording and Transport Clerks,minor,43,1
+4321,Stock Clerks,unit,432,1
+4322,Production Clerks,unit,432,1
+4323,Transport Clerks,unit,432,1
+44,Other Clerical Support Workers,sub_major,4,1
+441,Other Clerical Support Workers,minor,44,1
+4411,Library Clerks,unit,441,1
+4412,Mail Carriers and Sorting Clerks,unit,441,1
+4413,"Coding, Proofreading and Related Clerks",unit,441,1
+4414,Scribes and Related Workers,unit,441,1
+4415,Filing and Copying Clerks,unit,441,1
+4416,Personnel Clerks,unit,441,1
+4419,Clerical Support Workers Not Elsewhere Classified,unit,441,1
+5,Service and Sales Workers,major,,1
+51,Personal Service Workers,sub_major,5,1
+511,"Travel Attendants, Conductors and Guides",minor,51,1
+5111,Travel Attendants and Travel Stewards,unit,511,1
+5112,Transport Conductors,unit,511,1
+5113,Travel Guides,unit,511,1
+512,Cooks,minor,51,1
+5120,Cooks,unit,512,1
+513,Waiters and Bartenders,minor,51,1
+5131,Waiters,unit,513,1
+5132,Bartenders,unit,513,1
+514,"Hairdressers, Beauticians and Related Workers",minor,51,1
+5141,Hairdressers,unit,514,1
+5142,Beauticians and Related Workers,unit,514,1
+515,Building and Housekeeping Supervisors,minor,51,1
+5151,"Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",unit,515,1
+5152,Domestic Housekeepers,unit,515,1
+5153,Building Caretakers,unit,515,1
+516,Other Personal Services Workers,minor,51,1
+5161,"Astrologers, Fortune-tellers and Related Workers",unit,516,1
+5162,Companions and Valets,unit,516,1
+5163,Undertakers and Embalmers,unit,516,1
+5164,Pet Groomers and Animal Care Workers,unit,516,1
+5165,Driving Instructors,unit,516,1
+5169,Personal Services Workers Not Elsewhere Classified,unit,516,1
+52,Sales Workers,sub_major,5,1
+521,Street and Market Salespersons,minor,52,1
+5211,Stall and Market Salespersons,unit,521,1
+5212,Street Food Salespersons,unit,521,1
+522,Shop Aalespersons,minor,52,1
+5221,Shopkeepers,unit,522,1
+5222,Shop Supervisors,unit,522,1
+5223,Shop Sales Assistants,unit,522,1
+523,Cashiers and Ticket Clerks,minor,52,1
+5230,Cashiers and Ticket Clerks,unit,523,1
+524,Other Sales Workers,minor,52,1
+5241,Fashion and Other Models,unit,524,1
+5242,Sales Demonstrators,unit,524,1
+5243,Door-to-door Salespersons,unit,524,1
+5244,Contact Centre Salespersons,unit,524,1
+5245,Service Station Attendants,unit,524,1
+5246,Food Service Counter Attendants,unit,524,1
+5249,Sales Workers Not Elsewhere Classified,unit,524,1
+53,Personal Care Workers,sub_major,5,1
+531,Child Care Workers and Teachers' Aides,minor,53,1
+5311,Child Care Workers,unit,531,1
+5312,Teachers' Aides,unit,531,1
+532,Personal Care Workers in Health Services,minor,53,1
+5321,Health Care Assistants,unit,532,1
+5322,Home-based Personal Care Workers,unit,532,1
+5329,Personal Care Workers in Health Services Not Elsewhere Classified,unit,532,1
+54,Protective Services Workers,sub_major,5,1
+541,Protective Services Workers,minor,54,1
+5411,Fire Fighters,unit,541,1
+5412,Police Officers,unit,541,1
+5413,Prison Guards,unit,541,1
+5414,Security Guards,unit,541,1
+5419,Protective Services Workers Not Elsewhere Classified,unit,541,1
+6,"Skilled Agricultural, Forestry and Fishery Workers",major,,1
+61,Market-oriented Skilled Agricultural Workers,sub_major,6,1
+611,Market Gardeners and Crop Growers,minor,61,1
+6111,Field Crop and Vegetable Growers,unit,611,1
+6112,Tree and Shrub Crop Growers,unit,611,1
+6113,"Gardeners, Horticultural and Nursery Growers",unit,611,1
+6114,Mixed Crop Growers,unit,611,1
+612,Animal Producers,minor,61,1
+6121,Livestock and Dairy Producers,unit,612,1
+6122,Poultry Producers,unit,612,1
+6123,Apiarists and Sericulturists,unit,612,1
+6129,Animal Producers Not Elsewhere Classified,unit,612,1
+613,Mixed Crop and Animal Producers,minor,61,1
+6130,Mixed Crop and Animal Producers,unit,613,1
+62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",sub_major,6,1
+621,Forestry and Related Workers,minor,62,1
+6210,Forestry and Related Workers,unit,621,1
+622,"Fishery Workers, Hunters and Trappers",minor,62,1
+6221,Aquaculture Workers,unit,622,1
+6222,Inland and Coastal Waters Fishery Workers,unit,622,1
+6223,Deep-sea Fishery Workers,unit,622,1
+6224,Hunters and Trappers,unit,622,1
+63,"Subsistence Farmers, Fishers, Hunters and Gatherers",sub_major,6,1
+631,Subsistence Crop Farmers,minor,63,1
+6310,Subsistence Crop Farmers,unit,631,1
+632,Subsistence Livestock Farmers,minor,63,1
+6320,Subsistence Livestock Farmers,unit,632,1
+633,Subsistence Mixed Crop and Livestock Farmers,minor,63,1
+6330,Subsistence Mixed Crop and Livestock Farmers,unit,633,1
+634,"Subsistence Fishers, Hunters, Trappers and Gatherers",minor,63,1
+6340,"Subsistence Fishers, Hunters, Trappers and Gatherers",unit,634,1
+7,Craft and Related Trades Workers,major,,1
+71,Building and Related Trades Workers (excluding Electricians),sub_major,7,1
+711,Building Frame and Related Trades Workers,minor,71,1
+7111,House Builders,unit,711,1
+7112,Bricklayers and Related Workers,unit,711,1
+7113,"Stonemasons, Stone Cutters, Splitters and Carvers",unit,711,1
+7114,"Concrete Placers, Concrete Finishers and Related Workers",unit,711,1
+7115,Carpenters and Joiners,unit,711,1
+7119,Building Frame and Related Trades Workers Not Elsewhere Classified,unit,711,1
+712,Building Finishers and Related Trades Workers,minor,71,1
+7121,Roofers,unit,712,1
+7122,Floor Layers and Tile Setters,unit,712,1
+7123,Plasterers,unit,712,1
+7124,Insulation Workers,unit,712,1
+7125,Glaziers,unit,712,1
+7126,Plumbers and Pipe Fitters,unit,712,1
+7127,Air Conditioning and Refrigeration Mechanics,unit,712,1
+713,"Painters, Building Structure Cleaners and Related Trades Workers",minor,71,1
+7131,Painters and Related Workers,unit,713,1
+7132,Spray Painters and Varnishers,unit,713,1
+7133,Building Structure Cleaners,unit,713,1
+72,"Metal, Machinery and Related Trades Workers",sub_major,7,1
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",minor,72,1
+7211,Metal Moulders and Coremakers,unit,721,1
+7212,Welders and Flame Cutters,unit,721,1
+7213,Sheet Metal Workers,unit,721,1
+7214,Structural Metal Preparers and Erectors,unit,721,1
+7215,Riggers and Cable Splicers,unit,721,1
+722,"Blacksmiths, Toolmakers and Related Trades Workers",minor,72,1
+7221,"Blacksmiths, Hammersmiths and Forging Press Workers",unit,722,1
+7222,Toolmakers and Related Workers,unit,722,1
+7223,Metal Working Machine Tool Setters and Operators,unit,722,1
+7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners",unit,722,1
+723,Machinery Mechanics and Repairers,minor,72,1
+7231,Motor Vehicle Mechanics and Repairers,unit,723,1
+7232,Aircraft Engine Mechanics and Repairers,unit,723,1
+7233,Agricultural and Industrial Machinery Mechanics and Repairers,unit,723,1
+7234,Bicycle and Related Repairers,unit,723,1
+73,Handicraft and Printing Workers,sub_major,7,1
+731,Handicraft Workers,minor,73,1
+7311,Precision-instrument Makers and Repairers,unit,731,1
+7312,Musical Instrument Makers and Tuners,unit,731,1
+7313,Jewellery and Precious Metal Workers,unit,731,1
+7314,Potters and Related Workers,unit,731,1
+7315,"Glass Makers, Cutters, Grinders and Finishers",unit,731,1
+7316,"Sign Writers, Decorative Painters, Engravers and Etchers",unit,731,1
+7317,"Handicraft Workers in Wood, Basketry and Related Materials",unit,731,1
+7318,"Handicraft Workers in Textile, Leather and Related Materials",unit,731,1
+7319,Handicraft Workers Not Elsewhere Classified,unit,731,1
+732,Printing Trades Workers,minor,73,1
+7321,Pre-press Technicians,unit,732,1
+7322,Printers,unit,732,1
+7323,Print Finishing and Binding Workers,unit,732,1
+74,Electrical and Electronics Trades Workers,sub_major,7,1
+741,Electrical Equipment Installers and Repairers,minor,74,1
+7411,Building and Related Electricians,unit,741,1
+7412,Electrical Mechanics and Fitters,unit,741,1
+7413,Electrical Line Installers and Repairers,unit,741,1
+742,Electronics and Telecommunications Installers and Repairers,minor,74,1
+7421,Electronics Mechanics and Servicers,unit,742,1
+7422,Information and Communications Technology Installers and Servicers,unit,742,1
+75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",sub_major,7,1
+751,Food Processing and Related Trades Workers,minor,75,1
+7511,"Butchers, Fishmongers and Related Food Preparers",unit,751,1
+7512,"Bakers, Pastry-cooks and Confectionery Makers",unit,751,1
+7513,Dairy Products Makers,unit,751,1
+7514,"Fruit, Vegetable and Related Preservers",unit,751,1
+7515,Food and Beverage Tasters and Graders,unit,751,1
+7516,Tobacco Preparers and Tobacco Products Makers,unit,751,1
+752,"Wood Treaters, Cabinet-makers and Related Trades Workers",minor,75,1
+7521,Wood Treaters,unit,752,1
+7522,Cabinet-makers and Related Workers,unit,752,1
+7523,Woodworking Machine Tool Setters and Operators,unit,752,1
+753,Garment and Related Trades Workers,minor,75,1
+7531,"Tailors, Dressmakers, Furriers and Hatters",unit,753,1
+7532,Garment and Related Patternmakers and Cutters,unit,753,1
+7533,"Sewing, Embroidery and Related Workers",unit,753,1
+7534,Upholsterers and Related Workers,unit,753,1
+7535,"Pelt Dressers, Tanners and Fellmongers",unit,753,1
+7536,Shoemakers and Related Workers,unit,753,1
+754,Other Craft and Related Workers,minor,75,1
+7541,Underwater Divers,unit,754,1
+7542,Shotfirers and Blasters,unit,754,1
+7543,Product Graders and Testers (except Foods and Beverages),unit,754,1
+7544,Fumigators and Other Pest and Weed Controllers,unit,754,1
+7549,Craft and Related Workers not Elsewhere Classified,unit,754,1
+8,"Plant and Machine Operators, and Assemblers",major,,1
+81,Stationary Plant and Machine Operators,sub_major,8,1
+811,Mining and Mineral Processing Plant Operators,minor,81,1
+8111,Miners and Quarriers,unit,811,1
+8112,Mineral and Stone Processing Plant Operators,unit,811,1
+8113,Well Drillers and Borers and Related Workers,unit,811,1
+8114,"Cement, Stone and Other Mineral Products Machine Operators",unit,811,1
+812,Metal Processing and Finishing Plant Operators,minor,81,1
+8121,Metal Processing Plant Operators,unit,812,1
+8122,"Metal Finishing, Plating and Coating Machine Operators",unit,812,1
+813,Chemical and Photographic Products Plant and Machine Operators,minor,81,1
+8131,Chemical Products Plant and Machine Operators,unit,813,1
+8132,Photographic Products Machine Operators,unit,813,1
+814,"Rubber, Plastic and Paper Products Machine Operators",minor,81,1
+8141,Rubber Products Machine Operators,unit,814,1
+8142,Plastic Products Machine Operators,unit,814,1
+8143,Paper Products Machine Operators,unit,814,1
+815,"Textile, Fur and Leather Products Machine Operators",minor,81,1
+8151,"Fibre Preparing, Spinning and Winding Machine Operators",unit,815,1
+8152,Weaving and Knitting Machine Operators,unit,815,1
+8153,Sewing Machine Operators,unit,815,1
+8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",unit,815,1
+8155,Fur and Leather Preparing Machine Operators,unit,815,1
+8156,Shoemaking and Related Machine Operators,unit,815,1
+8157,Laundry Machine Operators,unit,815,1
+8159,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",unit,815,1
+816,Food and Related Products Machine Operators,minor,81,1
+8160,Food and Related Products Machine Operators,unit,816,1
+817,Wood Processing and Papermaking Plant Operators,minor,81,1
+8171,Pulp and Papermaking Plant Operators,unit,817,1
+8172,Wood Processing Plant Operators,unit,817,1
+818,Other Stationary Plant and Machine Operators,minor,81,1
+8181,Glass and Ceramics Plant Operators,unit,818,1
+8182,Steam Engine and Boiler Operators,unit,818,1
+8183,"Packing, Bottling and Labelling Machine Operators",unit,818,1
+8189,Stationary Plant and Machine Operators Not Elsewhere Classified,unit,818,1
+82,Assemblers,sub_major,8,1
+821,Assemblers,minor,82,1
+8211,Mechanical Machinery Assemblers,unit,821,1
+8212,Electrical and Electronic Equipment Assemblers,unit,821,1
+8219,Assemblers Not Elsewhere Classified,unit,821,1
+83,Drivers and Mobile Plant Operators,sub_major,8,1
+831,Locomotive Engine Drivers and Related Workers,minor,83,1
+8311,Locomotive Engine Drivers,unit,831,1
+8312,"Railway Brake, Signal and Switch Operators",unit,831,1
+832,"Car, Van and Motorcycle Drivers",minor,83,1
+8321,Motorcycle Drivers,unit,832,1
+8322,"Car, Taxi and Van Drivers",unit,832,1
+833,Heavy Truck and Bus Drivers,minor,83,1
+8331,Bus and Tram Drivers,unit,833,1
+8332,Heavy Truck and Lorry Drivers,unit,833,1
+834,Mobile Plant Operators,minor,83,1
+8341,Mobile Farm and Forestry Plant Operators,unit,834,1
+8342,Earthmoving and Related Plant Operators,unit,834,1
+8343,"Crane, hoist and related plant operators",unit,834,1
+8344,Lifting Truck Operators,unit,834,1
+835,Ships' Deck Crews and Related Workers,minor,83,1
+8350,Ships' Deck Crews and Related Workers,unit,835,1
+9,Elementary Occupations,major,,1
+91,Cleaners and Helpers,sub_major,9,1
+911,"Domestic, Hotel and Office Cleaners and Helpers",minor,91,1
+9111,Domestic Cleaners and Helpers,unit,911,1
+9112,"Cleaners and Helpers in Offices, Hotels and Other Establishments",unit,911,1
+912,"Vehicle, Window, Laundry and Other Hand Cleaning Workers",minor,91,1
+9121,Hand Launderers and Pressers,unit,912,1
+9122,Vehicle Cleaners,unit,912,1
+9123,Window Cleaners,unit,912,1
+9129,Other Cleaning Workers,unit,912,1
+92,"Agricultural, Forestry and Fishery Labourers",sub_major,9,1
+921,"Agricultural, Forestry and Fishery Labourers",minor,92,1
+9211,Crop Farm Labourers,unit,921,1
+9212,Livestock Farm Labourers,unit,921,1
+9213,Mixed Crop and Livestock Farm Labourers,unit,921,1
+9214,Garden and Horticultural Labourers,unit,921,1
+9215,Forestry Labourers,unit,921,1
+9216,Fishery and Aquaculture Labourers,unit,921,1
+93,"Labourers in Mining, Construction, Manufacturing and Transport",sub_major,9,1
+931,Mining and Construction Labourers,minor,93,1
+9311,Mining and Quarrying Labourers,unit,931,1
+9312,Civil Engineering Labourers,unit,931,1
+9313,Building Construction Labourers,unit,931,1
+932,Manufacturing Labourers,minor,93,1
+9321,Hand Packers,unit,932,1
+9329,Manufacturing Labourers Not Elsewhere Classified,unit,932,1
+933,Transport and Storage Labourers,minor,93,1
+9331,Hand and Pedal Vehicle Drivers,unit,933,1
+9332,Drivers of Animal-drawn Vehicles and Machinery,unit,933,1
+9333,Freight Handlers,unit,933,1
+9334,Shelf Fillers,unit,933,1
+94,Food Preparation Assistants,sub_major,9,1
+941,Food Preparation Assistants,minor,94,1
+9411,Fast Food Preparers,unit,941,1
+9412,Kitchen Helpers,unit,941,1
+95,Street and Related Sales and Service Workers,sub_major,9,1
+951,Street and Related Service Workers,minor,95,1
+9510,Street and Related Service Workers,unit,951,1
+952,Street Vendors (excluding Food),minor,95,1
+9520,Street Vendors (excluding Food),unit,952,1
+96,Refuse Workers and Other Elementary Workers,sub_major,9,1
+961,Refuse Workers,minor,96,1
+9611,Garbage and Recycling Collectors,unit,961,1
+9612,Refuse Sorters,unit,961,1
+9613,Sweepers and Related Labourers,unit,961,1
+962,Other Elementary Workers,minor,96,1
+9621,"Messengers, Package Deliverers and Luggage Porters",unit,962,1
+9622,Odd Job Persons,unit,962,1
+9623,Meter Readers and Vending-machine Collectors,unit,962,1
+9624,Water and Firewood Collectors,unit,962,1
+9629,Elementary Workers Not Elsewhere Classified,unit,962,1
+0,Armed Forces Occupations,major,,1
+01,Commissioned Armed forces Officers,sub_major,0,1
+011,Commissioned Armed Forces Officers,minor,01,1
+0110,Commissioned Armed Forces Officers,unit,011,1
+02,Non-commissioned Armed Forces Officers,sub_major,0,1
+021,Non-commissioned Armed Forces Officers,minor,02,1
+0210,Non-commissioned Armed Forces Officers,unit,021,1
+03,"Armed Forces Occupations, Other Ranks",sub_major,0,1
+031,"Armed Forces Occupations, Other Ranks",minor,03,1
+0310,"Armed Forces Occupations, Other Ranks",unit,031,1

@@ -1,0 +1,19 @@
+{
+  "key": "forex_bureaus",
+  "name": "CBK Licensed Foreign Exchange Bureaus",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya - Directory of Licenced Foreign Exchange Bureaus as at September 30, 2026",
+  "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/10/Directory-of-Licenced-Foreign-Exchange-Bureaus-as-at-September-30-2026.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/bank-supervision/"
+  ],
+  "as_of": "2026-09-30",
+  "retrieved": "2026-11-01",
+  "row_count": 96,
+  "sha256": "5a07f3706273312102ef4234ed9b4973b11664172abeacc6bb81d36345474b60",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "The as_of date comes from the document title/filename. Rows were parsed from PDF word coordinates, 96 entries numbered 1-96. The directory gives no licence numbers. Location = premises as given. Date of licencing is in notes. A superscript artifact 'th 20 Century' was fixed to '20th Century' (Peaktop, Sky)."
+}

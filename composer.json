@@ -1,0 +1,11 @@
+{
+    "name": "xcobean/kenya-refdata",
+    "description": "Kenyan reference data (counties, wards, post offices, banks and branches, regulated institutions, mobile prefixes, public holidays, ...) as sourced, versioned CSV files. Data only, no code.",
+    "type": "library",
+    "license": "proprietary",
+    "keywords": ["kenya", "reference-data", "banks", "counties", "sacco", "cbk", "cma"],
+    "require": {},
+    "archive": {
+        "exclude": [".github", "scripts"]
+    }
+}

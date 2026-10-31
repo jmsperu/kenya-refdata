@@ -1,0 +1,622 @@
+postal_code,name,county_code,active
+00100,Nairobi GPO,047,1
+00101,Jamia,047,1
+00102,State law Office-Sheria Hse,047,1
+00200,City Square,047,1
+00202,Kenyatta Hospital,047,1
+00204,Athi River,016,1
+00205,Magadi,034,1
+00206,Kiserian,034,1
+00207,Namanga,034,1
+00208,Ngong Hills,034,1
+00209,Loitokitok,034,1
+00216,Githunguri,022,1
+00217,Limuru,022,1
+00218,Ngecha,022,1
+00219,Karuri,022,1
+00220,Kijabe,022,1
+00221,Matathia,022,1
+00222,Uplands,022,1
+00223,Kagwe,022,1
+00227,Kinale / Kinari,022,1
+00229,Nderu,022,1
+00232,Ruiru,022,1
+00240,Gathugu,022,1
+00241,Kitengela,034,1
+00300,Ronald Ngala Street,047,1
+00400,Tom Mboya Street,047,1
+00500,Enterprise Road,047,1
+00501,JKIA,047,1
+00502,Karen,047,1
+00503,Mbagathi,034,1
+00504,Mchumbi Road,047,1
+00505,Ngong Road,047,1
+00506,Nyayo Stadium,047,1
+00507,Viwandani,047,1
+00508,Yaya Towers,047,1
+00509,Langata Hardy,047,1
+00510,Makongeni,047,1
+00511,Ongata Rongai,034,1
+00516,Dandora,047,1
+00517,Uhuru Gardens,047,1
+00518,Kayole,047,1
+00519,Mlolongo,016,1
+00520,Ruai,047,1
+00521,Embakasi Village,047,1
+00522,Makadara,047,1
+00600,Ngara Road,047,1
+00601,Gigiri,047,1
+00603,Lavington,047,1
+00604,Lower Kabete,022,1
+00605,Uthiru,047,1
+00606,Sarit Centre,047,1
+00607,Kamiti,022,1
+00609,Kenyatta University,047,1
+00610,Eastleigh,047,1
+00611,Mathare Valley,047,1
+00614,Wangige,022,1
+00618,Ruaraka,047,1
+00619,Muthaiga,047,1
+00620,Mobil Plaza,047,1
+00621,Village Market,047,1
+00623,Parklands,047,1
+00625,Kangemi,047,1
+00800,Westlands,047,1
+00900,Kiambu,022,1
+00901,Ngewa,022,1
+00902,Kikuyu,022,1
+01000,Thika,022,1
+01001,Kalimoni,022,1
+01002,Madaraka,022,1
+01003,Gituamba,,1
+01004,Kanjuku,022,1
+01013,Gatura,021,1
+01015,Ithanga,021,1
+01016,Ndithini,,1
+01018,Kirwara,021,1
+01020,Kenol,021,1
+01027,Donyosabuk,016,1
+01028,Gatukuyu,022,1
+01030,Gatundu,022,1
+01031,Kindaruma,014,1
+01033,Kagundu-ini,021,1
+01034,Kandara,021,1
+01100,Kajiado,034,1
+01101,Bissel,034,1
+01103,Mashuru,034,1
+10100,Nyeri,019,1
+10101,Karatina,019,1
+10102,Kiganjo,019,1
+10103,Mukurweini,019,1
+10104,Mweiga,019,1
+10105,Naro Moru,019,1
+10106,Othaya,019,1
+10107,Endarasha,019,1
+10108,Giakanja,019,1
+10109,Gakere Road,019,1
+10111,Gakindu,019,1
+10114,Gatitu,019,1
+10122,Kiamariga,019,1
+10129,Mugunda,019,1
+10133,Ruringu,019,1
+10141,Kamakwa Rd,019,1
+10200,Muranga,021,1
+10201,Kahuro,021,1
+10202,Kangema,021,1
+10203,Kigumo,021,1
+10204,Kiriaini,021,1
+10205,Maragua,021,1
+10206,Kahuhia,021,1
+10207,Kihoya,021,1
+10208,Saba-Saba,021,1
+10209,Gitugi,021,1
+10210,Gacharage-ini,021,1
+10213,Gikoe,021,1
+10218,Kangari,021,1
+10226,Kambiti,021,1
+10230,Sagana,020,1
+10232,Gakungu,021,1
+10233,Mbiri,021,1
+10244,Kora,021,1
+10300,Kerugoya,020,1
+10301,Kianyaga,020,1
+10302,Baricho,020,1
+10303,Wanguru,020,1
+10304,Kutus,020,1
+10306,Kagio,020,1
+10307,Kagumo,020,1
+10309,Kiamutugu,020,1
+10310,Kimbimbi,020,1
+10400,Nanyuki,031,1
+10401,Doldol,031,1
+10406,Timau,012,1
+20100,Nakuru,032,1
+20101,Bondeni,032,1
+20102,Elburgon,032,1
+20103,Eldama Ravine,030,1
+20104,Menengai,032,1
+20105,Mogotio,030,1
+20106,Molo,032,1
+20107,Njoro,032,1
+20108,Rongai,032,1
+20109,Subukia,032,1
+20110,Timber Mills,032,1
+20112,Lanet,032,1
+20113,Bahati,032,1
+20114,Kabazi,032,1
+20115,Egerton,032,1
+20116,Gilgil,032,1
+20117,Naivasha,032,1
+20124,Mirangine,032,1
+20131,Keringet,032,1
+20147,Mai Mahiu,032,1
+20151,Sulmac,032,1
+20152,Olenguruone,032,1
+20157,Kabarak,030,1
+20200,Kericho,035,1
+20201,Kabianga,035,1
+20202,Kipkelion,035,1
+20203,Londiani,035,1
+20204,Roret,035,1
+20205,Sosiot,035,1
+20208,Kiptugumo,035,1
+20209,Fort Ternan,035,1
+20210,Litein,035,1
+20211,Kapsoit,035,1
+20213,Kiptere,035,1
+20214,Kapkatet,035,1
+20215,Cheborge,035,1
+20217,Chesinendet,035,1
+20220,Kedowa,035,1
+20225,Kimulot,035,1
+20300,Nyahururu,031,1
+20301,Miharati,018,1
+20302,Oljoro-Orok,018,1
+20303,Ol-Kalou,018,1
+20304,Kaheho,018,1
+20305,Wanjohi,018,1
+20306,Ndaragwa,018,1
+20307,Igwamiti,031,1
+20313,Rurii,018,1
+20317,Ndunyu Njeru,031,1
+20318,North-Kinangop,018,1
+20319,South-Kinangop,018,1
+20320,Kinamba,032,1
+20321,Rumuruti,031,1
+20322,Marmanet,031,1
+20328,Karandi,018,1
+20330,Laikipia Campus,031,1
+20400,Bomet,036,1
+20401,Chebunyo,036,1
+20402,Longisa,036,1
+20403,Mogogosiek,035,1
+20404,Ndanai,036,1
+20405,Sigor,036,1
+20406,Sotik,036,1
+20422,Silibwet,036,1
+20423,Siongiroi,036,1
+20424,Amalo (formerly Oloomirani),036,1
+20500,Narok,033,1
+20501,Keekorok,033,1
+20503,Ololulunga,033,1
+20504,Nairage Enkare,033,1
+20600,Maralal,025,1
+20601,Baragoi,025,1
+20602,Suguta Mar Mar,025,1
+20603,Wamba,025,1
+30100,Eldoret,027,1
+30101,Ainabkoi,027,1
+30102,Burnt Forest,027,1
+30103,Kipkabus,027,1
+30104,Moiben,027,1
+30105,Soy,027,1
+30106,Turbo,027,1
+30107,Moi University,027,1
+30108,Timboroa,027,1
+30109,Huruma,027,1
+30112,Langas,027,1
+30114,Kaptagat,027,1
+30128,Kimwarer,028,1
+30129,Chepkorio,028,1
+30133,Chepkoilel,027,1
+30200,Kitale,026,1
+30201,Endebess,026,1
+30202,Moi's Bridge,027,1
+30204,Kapcherop,028,1
+30205,Matunda,027,1
+30209,Kiminini,,1
+30214,Ziwa,027,1
+30215,Kesogon,026,1
+30218,Tongaren,039,1
+30300,Kapsabet,029,1
+30301,Nandi Hills,029,1
+30302,Lessos,029,1
+30303,Kabiyet,029,1
+30304,Kapcheno,029,1
+30305,Kobujoi,029,1
+30306,Baraton,029,1
+30307,Mosoriot,029,1
+30400,Kabarnet,030,1
+30401,Kabartonjo,030,1
+30402,Kiptagich,032,1
+30403,Marigat,030,1
+30404,Nginyang,030,1
+30405,Tenges,030,1
+30406,Kampi-Ya-Samaki,030,1
+30407,Seretunin,030,1
+30500,Lodwar,023,1
+30501,Kakuma,023,1
+30502,Kalokol,023,1
+30503,Lokichoggio,023,1
+30504,Lokitaung,023,1
+30600,Kapenguria,024,1
+30601,Kacheliba,024,1
+30602,Ortum,024,1
+30603,Wei-Wei,024,1
+30605,Chepareria,024,1
+30700,Iten,028,1
+30701,Kaptarakwa,028,1
+30704,Tambach,028,1
+30705,Kapsowar,028,1
+30706,Chebiemit,028,1
+30707,Tot,028,1
+40100,Kisumu,042,1
+40101,Ahero,042,1
+40102,Kombewa,042,1
+40103,Kondele,042,1
+40104,Koru,042,1
+40105,Maseno,038,1
+40107,Muhoroni,042,1
+40109,Sondu,042,1
+40110,Songhor,042,1
+40111,Pap-Onditi,042,1
+40112,Dago,042,1
+40116,Chemelil,042,1
+40117,Daraja Mbili,042,1
+40118,Katito,042,1
+40122,Awasi,042,1
+40123,Mega City,042,1
+40124,Nyabondo,042,1
+40126,Nyangande,042,1
+40127,Nyangori,042,1
+40131,Paw Akuche,042,1
+40132,Rabuor,042,1
+40133,Reru,042,1
+40137,Ratta,042,1
+40139,Akala,041,1
+40141,Winam (Kisumu GPO Extn.),042,1
+40142,Victoria,042,1
+40200,Kisii,045,1
+40201,Gesusu,045,1
+40202,Keroka,046,1
+40203,Nyamache,045,1
+40204,Ogembo,045,1
+40205,Nyambunwa,045,1
+40206,Nyamarambe,045,1
+40208,Etago,045,1
+40209,Igare,045,1
+40211,Kenyenya,045,1
+40212,Keumbu,045,1
+40214,Marani,045,1
+40218,Nyangusu,045,1
+40220,Riosiri,045,1
+40221,Omogonchoro,045,1
+40222,Oyugis,043,1
+40223,Kadongo,043,1
+40228,Uriri,044,1
+40229,Tabaka,045,1
+40300,Homa Bay,043,1
+40301,Kendu Bay,043,1
+40302,Ndhiwa,043,1
+40303,Rangwe,043,1
+40304,Kandiege,043,1
+40305,Mbita,043,1
+40307,Magunga,043,1
+40308,Sindo,043,1
+40309,Asumbi,043,1
+40310,Mawego,043,1
+40311,Nyangweso,043,1
+40319,Mfangano,043,1
+40320,Mirogi,043,1
+40323,Ogongo,043,1
+40326,Rodi Kopany,043,1
+40332,Kosele,043,1
+40333,Nyandhiwa,043,1
+40400,Suna,044,1
+40401,Karungu,044,1
+40402,Nyatike,044,1
+40403,Rapogi,044,1
+40404,Rongo,044,1
+40405,Sare,044,1
+40409,Muhuru Bay,044,1
+40412,Ranen,044,1
+40413,Kehancha,044,1
+40414,Isibania,044,1
+40500,Nyamira,046,1
+40501,Ikonge,046,1
+40502,Nyansiongo,046,1
+40503,Gesima,046,1
+40506,Kebirigo,046,1
+40507,Magombo,046,1
+40508,Magwagwa,046,1
+40510,Mokomoni,046,1
+40511,Rigoma,046,1
+40512,Riochanda,046,1
+40514,Nyaramba,045,1
+40516,Magena,045,1
+40600,Siaya,041,1
+40601,Bondo,041,1
+40602,Ndori,041,1
+40603,Ng'iya,041,1
+40604,Ragengni,041,1
+40605,Sidindi,041,1
+40606,Ugunja,041,1
+40607,Ukwala,041,1
+40608,Uranga,041,1
+40609,Usenge,041,1
+40610,Yala,041,1
+40611,Nyilima,041,1
+40612,Sawagongo,041,1
+40613,Madiany,041,1
+40614,Sega,041,1
+40615,Nango,041,1
+40620,Boro,041,1
+40623,Luhano,041,1
+40628,Mutumbu,041,1
+40632,Nyamonye,041,1
+40635,Sigomre,041,1
+40640,Hawinga,041,1
+40700,Kilgoris,033,1
+40701,Lolgorian,033,1
+50100,Kakamega,037,1
+50101,Butere,037,1
+50102,Mumias,037,1
+50103,Malava,037,1
+50104,Khayega,037,1
+50105,Bukura,037,1
+50106,Shianda,037,1
+50107,Shinyalu,037,1
+50108,Lugari,037,1
+50109,Bulimbo,037,1
+50115,Kakunga,037,1
+50116,Kambiri,037,1
+50117,Koyonzo,037,1
+50118,Lubao,037,1
+50119,Lunza,037,1
+50125,Musanda,037,1
+50127,Nambacha,037,1
+50135,Khwisero,037,1
+50136,Matete,037,1
+50137,Booker,037,1
+50138,Milimani,037,1
+50200,Bungoma,039,1
+50201,Cheptais,039,1
+50202,Chwele,039,1
+50203,Kapsokwony,039,1
+50204,Kimilili,039,1
+50205,Webuye,039,1
+50206,Bokoli,039,1
+50207,Misikhu,039,1
+50208,Sirisia,039,1
+50209,Malakisi,039,1
+50210,Buyofu,039,1
+50211,Naitiri,039,1
+50212,Ndalu,039,1
+50216,Kamukuywa,039,1
+50218,Lugulu,039,1
+50220,Lwakhakha,039,1
+50225,Mukhe,039,1
+50226,Myanga,039,1
+50230,Lukusi,039,1
+50235,Mabusi,039,1
+50241,Kipkarren River,037,1
+50242,Lumakanda,037,1
+50244,Amagoro,040,1
+50245,Brigadier,039,1
+50300,Maragoli,038,1
+50302,Chamakanga,038,1
+50305,Kaimosi,038,1
+50307,Luanda,038,1
+50308,Serem,038,1
+50309,Tiriki,038,1
+50310,Vihiga,038,1
+50311,Wodanga,038,1
+50312,Hamisi,038,1
+50313,Kiritu,038,1
+50314,Emuhaya,038,1
+50315,Kilingili,038,1
+50316,Banja,037,1
+50317,Chavakali,038,1
+50318,Gambogi,038,1
+50325,Mago,037,1
+50400,Busia,040,1
+50403,Amukura,040,1
+50404,Bumala,040,1
+50405,Butula,040,1
+50406,Funyula,040,1
+50408,Kamuriai,040,1
+50409,Nambale,040,1
+50410,Port victoria,040,1
+50423,Mubwayo,040,1
+60100,Embu,014,1
+60101,Manyatta,014,1
+60102,Ishiara,014,1
+60103,Runyenjes,014,1
+60104,Siakago,014,1
+60105,Karaba,014,1
+60113,Kiritiri,014,1
+60114,Kithimu,014,1
+60117,Karurumo,014,1
+60118,Kanja,014,1
+60121,Wachoro,014,1
+60122,Kianjokoma,014,1
+60125,Kubu Kubu,014,1
+60200,Meru,012,1
+60201,Kibirichia,012,1
+60202,Nkubu,012,1
+60204,Mitunguu,013,1
+60205,Githongo,012,1
+60206,Kanyakine,012,1
+60207,Kiirua,012,1
+60209,Gaitu,012,1
+60211,Kionyo,012,1
+60212,Gitemene,012,1
+60213,Tunyai,013,1
+60214,Nkondi,013,1
+60215,Marimanti,013,1
+60216,Kinoru,012,1
+60300,Isiolo,011,1
+60301,Garba Tulla,011,1
+60400,Chuka,013,1
+60401,Chogoria,013,1
+60402,Igoji,012,1
+60403,Magumoni,013,1
+60404,Gatunga,013,1
+60405,Ikuu,012,1
+60406,Kathwana,013,1
+60407,Magutuni,013,1
+60408,Marima,013,1
+60409,Chiakariga,013,1
+60500,Marsabit,010,1
+60501,Loiyangalani,010,1
+60502,Laisamis,010,1
+60600,Maua,012,1
+60601,Laare,012,1
+60602,Kianjai,012,1
+60604,Miathene,012,1
+60605,Muthaara,012,1
+60607,Mikinduri,012,1
+60700,Moyale,010,1
+70100,Garissa,007,1
+70101,Hola,004,1
+70102,Modo Gashe,007,1
+70103,Dadaab,007,1
+70104,Bura Tana,004,1
+70105,Masalani,007,1
+70200,Wajir,008,1
+70201,Habaswein,008,1
+70202,Griftu,008,1
+70300,Mandera,009,1
+70301,Elwak,009,1
+70302,Rhamu,009,1
+70303,Takaba,009,1
+70304,Lafey,009,1
+80100,Mombasa,001,1
+80101,Bamburi,001,1
+80102,Changamwe,001,1
+80103,Coast Gen. Hospital,001,1
+80104,Docks,001,1
+80105,Kaloleni,003,1
+80106,Mkomani,001,1
+80107,Kilindini,001,1
+80108,Kilifi,003,1
+80109,Mtwapa,003,1
+80110,Likoni,001,1
+80111,Mtongwe,001,1
+80112,Makupa,001,1
+80113,Mariakani,003,1
+80114,Mazeras,,1
+80115,Moi Airport,001,1
+80117,Mtopanga,001,1
+80118,Nyali,001,1
+80119,Vipingo,003,1
+80120,Samburu,002,1
+80122,Kengeleni,001,1
+80200,Malindi,003,1
+80201,Garsen,004,1
+80202,Watamu,003,1
+80206,Gongoni,003,1
+80207,Madina,003,1
+80208,Gede,003,1
+80211,Bamba,003,1
+80300,Voi,006,1
+80302,Taveta,006,1
+80303,Werugha,006,1
+80304,Wundanyi,006,1
+80305,Mwatate,006,1
+80306,Mgange,006,1
+80308,Sagalla,006,1
+80309,Tausa,006,1
+80311,Ng'ambwa,006,1
+80313,Mgambonyi,006,1
+80314,Chumvini,006,1
+80317,Maungu,006,1
+80400,Ukunda,002,1
+80401,Diani Beach,002,1
+80402,Lunga Lunga,002,1
+80403,Kwale,002,1
+80404,Msambweni,002,1
+80405,Kinango,002,1
+80406,Matuga,002,1
+80407,Shimba Hills,002,1
+80409,Shimoni,002,1
+80410,Kikoneni,002,1
+80500,Lamu,005,1
+80501,Faza,005,1
+80502,Mokowe,005,1
+80503,Mpeketoni,005,1
+80504,Witu,005,1
+90100,Machakos,016,1
+90101,Masii,016,1
+90102,Mwala,016,1
+90103,Wamunyu,016,1
+90104,Mitaboni,016,1
+90105,Kathiani,016,1
+90106,Katangi,016,1
+90107,Kaviani,016,1
+90108,Kola,016,1
+90110,Mbiuni,016,1
+90111,Kivunga,016,1
+90112,Miu,016,1
+90113,Muthetheni,016,1
+90115,Kangundo,016,1
+90117,Mutituni,016,1
+90118,Ndalani,016,1
+90119,Matuu,016,1
+90120,Iiani,016,1
+90121,Emali,017,1
+90122,Kalamba,017,1
+90123,Kasikeu,017,1
+90124,Kithimani,016,1
+90125,Kikima,017,1
+90127,Mbumbuni,017,1
+90128,Mtitu Andei,017,1
+90129,Ngwata,017,1
+90130,Nunguni,017,1
+90131,Tala,016,1
+90132,Sultan Hamud,017,1
+90133,Tawa,017,1
+90134,Yoani,017,1
+90135,Ikalaasa,016,1
+90136,Nzeeka,017,1
+90137,Kibwezi,017,1
+90138,Makindu,017,1
+90139,Ekalakala,016,1
+90140,Matiliku,017,1
+90141,Masinga,016,1
+90143,Nziu,017,1
+90144,Kithyoko,016,1
+90145,Daystar,016,1
+90147,Chumvi,016,1
+90200,Kitui,015,1
+90201,Mutomo,014,1
+90202,Ndooa,015,1
+90203,Tulia,015,1
+90205,Kabati,015,1
+90207,Ikutha,015,1
+90209,Kyeni,014,1
+90211,Mutha,,1
+90213,Zombe,015,1
+90214,Mbitini,015,1
+90220,Kyatune,015,1
+90300,Makueni,017,1
+90301,Okia,017,1
+90302,Kathonzweni,017,1
+90303,Kitise,017,1
+90304,Mavindini,017,1
+90305,Kilala,017,1
+90400,Mwingi,015,1
+90401,Kyuso,015,1
+90402,Migwani,015,1
+90403,Kamuwongo,015,1
+90407,Nguni,015,1

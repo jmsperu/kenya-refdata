@@ -1,0 +1,334 @@
+county_code,name,code,active
+001,Changamwe,,1
+001,Jomvu,,1
+001,Kisauni,,1
+001,Likoni,,1
+001,Mvita,,1
+001,Nyali,,1
+002,Kinango,,1
+002,Lungalunga,,1
+002,Matuga,,1
+002,Msambweni,,1
+002,Samburu-Kwale,,1
+003,Chonyi,,1
+003,Ganze,,1
+003,Kaloleni,,1
+003,Kauma,,1
+003,Kilifi North,,1
+003,Kilifi South,,1
+003,Magarini,,1
+003,Malindi,,1
+003,Rabai,,1
+004,Tana North,,1
+004,Tana Delta,,1
+004,Tana River,,1
+005,Lamu East,,1
+005,Lamu West,,1
+006,Mwatate,,1
+006,Taita,,1
+006,Taveta,,1
+006,Voi,,1
+007,Balambala,,1
+007,Dadaab,,1
+007,Fafi,,1
+007,Garissa,,1
+007,Hulugho,,1
+007,Ijara,,1
+007,Lagdera,,1
+008,Buna,,1
+008,Eldas,,1
+008,Habaswein,,1
+008,Tarbaj,,1
+008,Wajir East,,1
+008,Wajir North,,1
+008,Wajir South,,1
+008,Wajir West,,1
+009,Mandera West,,1
+009,Banisa,,1
+009,Kutulo,,1
+009,Lafey,,1
+009,Mandera Central,,1
+009,Mandera East,,1
+009,Mandera North,,1
+010,Loiyangalani,,1
+010,Marsabit Central,,1
+010,Marsabit North,,1
+010,Marsabit South,,1
+010,Moyale,,1
+010,North Horr,,1
+010,Sololo,,1
+011,Garbatulla,,1
+011,Isiolo,,1
+011,Merti,,1
+012,Buuri East,,1
+012,Buuri West,,1
+012,Igembe Central,,1
+012,Igembe North,,1
+012,Igembe South,,1
+012,Imenti North,,1
+012,Imenti South,,1
+012,Meru Central,,1
+012,Tigania Central,,1
+012,Tigania East,,1
+012,Tigania West,,1
+013,Igambang'ombe,,1
+013,Maara,,1
+013,Meru South,,1
+013,Tharaka North,,1
+013,Tharaka South,,1
+014,Embu East,,1
+014,Embu North,,1
+014,Embu West,,1
+014,Mbeere South,,1
+014,Mbeere North,,1
+015,Ikutha,,1
+015,Katulani,,1
+015,Kisasi,,1
+015,Kitui Central,,1
+015,Kitui West,,1
+015,Kyuso,,1
+015,Lower Yatta,,1
+015,Matinyani,,1
+015,Migwani,,1
+015,Mumoni,,1
+015,Mutitu,,1
+015,Mutitu North,,1
+015,Mutomo,,1
+015,Mwingi Central,,1
+015,Mwingi East,,1
+015,Nzambani,,1
+015,Thagicu,,1
+015,Tseikuru,,1
+016,Athi River,,1
+016,Kalama,,1
+016,Kangundo,,1
+016,Kathiani,,1
+016,Machakos,,1
+016,Masinga,,1
+016,Matungulu,,1
+016,Mwala,,1
+016,Yatta,,1
+017,Kathonzweni,,1
+017,Kibwezi,,1
+017,Kilungu,,1
+017,Makindu,,1
+017,Makueni,,1
+017,Mbooni East,,1
+017,Mbooni West,,1
+017,Mukaa,,1
+017,Nzaui,,1
+018,Kinangop,,1
+018,Nyandarua South,,1
+018,Mirangine,,1
+018,Kipipiri,,1
+018,Nyandarua Central,,1
+018,Nyandarua West,,1
+018,Nyandarua North,,1
+019,Tetu,,1
+019,Kieni East,,1
+019,Kieni West,,1
+019,Mathira East,,1
+019,Mathira West,,1
+019,Nyeri South,,1
+019,Mukurwe-ini,,1
+019,Nyeri Central,,1
+020,Kirinyaga Central,,1
+020,Kirinyaga East,,1
+020,Kirinyaga West,,1
+020,Mwea East,,1
+020,Mwea West,,1
+021,Murang'a East,,1
+021,Kangema,,1
+021,Mathioya,,1
+021,Kahuro,,1
+021,Murang'a South,,1
+021,Gatanga,,1
+021,Kigumo,,1
+021,Kandara,,1
+022,Gatundu North,,1
+022,Gatundu South,,1
+022,Githunguri,,1
+022,Juja,,1
+022,Kabete,,1
+022,Kiambaa,,1
+022,Kiambu,,1
+022,Kikuyu,,1
+022,Lari,,1
+022,Limuru,,1
+022,Ruiru,,1
+022,Thika East,,1
+022,Thika West,,1
+023,Kibish,,1
+023,Loima,,1
+023,Turkana Central,,1
+023,Turkana East,,1
+023,Turkana North,,1
+023,Turkana South,,1
+023,Turkana West,,1
+024,Kipkomo,,1
+024,Pokot Central,,1
+024,Pokot North,,1
+024,Pokot South,,1
+024,West Pokot,,1
+025,Samburu Central,,1
+025,Samburu East,,1
+025,Samburu North,,1
+026,Trans Nzoia West,,1
+026,Trans Nzoia East,,1
+026,Kwanza,,1
+026,Endebess,,1
+026,Kiminini,,1
+027,Ainabkoi,,1
+027,Kapseret,,1
+027,Kesses,,1
+027,Moiben,,1
+027,Soy,,1
+027,Turbo,,1
+028,Keiyo North,,1
+028,Keiyo South,,1
+028,Marakwet East,,1
+028,Marakwet West,,1
+029,Chesumei,,1
+029,Nandi Central,,1
+029,Nandi East,,1
+029,Nandi North,,1
+029,Nandi South,,1
+029,Tinderet,,1
+030,Baringo Central,,1
+030,Baringo North,,1
+030,East Pokot,,1
+030,Koibatek,,1
+030,Marigat,,1
+030,Mogotio,,1
+030,Tiaty East,,1
+031,Laikipia Central,,1
+031,Laikipia East,,1
+031,Laikipia North,,1
+031,Laikipia West,,1
+031,Nyahururu,,1
+032,Gilgil,,1
+032,Kuresoi North,,1
+032,Kuresoi South,,1
+032,Molo,,1
+032,Naivasha,,1
+032,Nakuru East,,1
+032,Nakuru North,,1
+032,Nakuru West,,1
+032,Njoro,,1
+032,Rongai,,1
+032,Subukia,,1
+033,Narok East,,1
+033,Narok North,,1
+033,Narok South,,1
+033,Narok West,,1
+033,Trans Mara East,,1
+033,Trans Mara West,,1
+034,Isinya,,1
+034,Kajiado Central,,1
+034,Kajiado North,,1
+034,Kajiado West,,1
+034,Loitokitok,,1
+034,Mashuuru,,1
+035,Belgut,,1
+035,Bureti,,1
+035,Kericho East,,1
+035,Kipkelion,,1
+035,Londiani,,1
+035,Soin Sigowet,,1
+036,Bomet East,,1
+036,Chepalungu,,1
+036,Konoin,,1
+036,Sotik,,1
+036,Bomet Central,,1
+037,Butere,,1
+037,Kakamega Central,,1
+037,Kakamega East,,1
+037,Kakamega North,,1
+037,Kakamega South,,1
+037,Khwisero,,1
+037,Likuyani,,1
+037,Lugari,,1
+037,Matete,,1
+037,Matungu,,1
+037,Mumias East,,1
+037,Mumias West,,1
+037,Navakholo,,1
+038,Emuhaya,,1
+038,Vihiga,,1
+038,Sabatia,,1
+038,Luanda,,1
+038,Hamisi,,1
+039,Bumula,,1
+039,Bungoma Central,,1
+039,Bungoma East,,1
+039,Bungoma North,,1
+039,Bungoma South,,1
+039,Cheptais,,1
+039,Kimilili-Bungoma,,1
+039,Mt. Elgon,,1
+039,Bungoma West,,1
+039,Tongaren,,1
+039,Webuye West,,1
+040,Bunyala,,1
+040,Busia,,1
+040,Butula,,1
+040,Nambale,,1
+040,Samia,,1
+040,Teso North,,1
+040,Teso South,,1
+041,Siaya,,1
+041,Gem,,1
+041,Ugenya,,1
+041,Ugunja,,1
+041,Bondo,,1
+041,Rarieda,,1
+042,Kisumu East,,1
+042,Kisumu Central,,1
+042,Kisumu West,,1
+042,Seme,,1
+042,Muhoroni,,1
+042,Nyando,,1
+042,Nyakach,,1
+043,Homa Bay,,1
+043,Ndhiwa,,1
+043,Rachuonyo North,,1
+043,Rachuonyo East,,1
+043,Rachuonyo South,,1
+043,Rangwe,,1
+043,Suba North,,1
+043,Suba South,,1
+044,Awendo,,1
+044,Kuria East,,1
+044,Kuria West,,1
+044,Nyatike,,1
+044,Rongo,,1
+044,Suna East,,1
+044,Suna West,,1
+044,Uriri,,1
+045,Etago,,1
+045,Gucha,,1
+045,Gucha South,,1
+045,Kenyenya,,1
+045,Kisii Central,,1
+045,Kisii South,,1
+045,Kitutu Central,,1
+045,Marani,,1
+045,Masaba South,,1
+045,Nyamache,,1
+045,Sameta,,1
+046,Borabu,,1
+046,Manga,,1
+046,Masaba North,,1
+046,Nyamira North,,1
+046,Nyamira South,,1
+047,Dagoretti,,1
+047,Embakasi,,1
+047,Kamukunji,,1
+047,Kasarani,,1
+047,Kibra,,1
+047,Lang'ata,,1
+047,Makadara,,1
+047,Mathare,,1
+047,Njiru,,1
+047,Starehe,,1
+047,Westlands,,1

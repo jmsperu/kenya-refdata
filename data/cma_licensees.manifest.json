@@ -1,0 +1,21 @@
+{
+  "key": "cma_licensees",
+  "name": "Capital Markets Authority (Kenya) licensees, approved institutions and approved schemes",
+  "version": "0.1.0",
+  "source": "Capital Markets Authority Kenya - Licensees/Market Players portal (licensees.cma.or.ke), all 20 category pages",
+  "source_url": "https://licensees.cma.or.ke/",
+  "other_sources": [
+    "https://licensees.cma.or.ke/licenses/1/",
+    "https://licensees.cma.or.ke/licenses/15/",
+    "https://www.cma.or.ke/licensees-market-players/ (main site, linked to the portal; origin returned HTTP 504 on 2026-11-01; Wayback snapshot 2024-10-08 used only to confirm the portal is CMA's official list)"
+  ],
+  "as_of": "2026-11-01",
+  "retrieved": "2026-11-01",
+  "row_count": 342,
+  "sha256": "f7eac7553823c8f068425326706f7d889d340056af8a96e9b60a8ef14fbea92b",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "The portal states no 'as at' date, so as_of = retrieval date. Newest licence numbers seen are 11/2026 (CIS) and 274 (coffee broker). Categories are CMA's portal categories in snake_case: Approved Institutions split by CMA's own sub-category column into securities_exchange, derivatives_exchange, central_depository, credit_rating_agency, otc_securities_exchange (EABX; CMA shows the category truncated as 'Over The Counter Securities Exchange and Self-Regu'); derivatives_broker, investment_bank, stockbroker, non_dealing_online_forex_broker, online_forex_money_manager, authorised_securities_dealer, fund_manager, investment_adviser, authorised_depository (custodians), reit_manager, coffee_broker (commodity), reit_trustee, authorised_reit, collective_investment_scheme, approved_esop, dealing_online_forex_broker, corporate_trustee, intermediary_service_platform_provider, venture_capital. The portal has NO categories for clearing house, crowdfunding platforms or regulatory sandbox participants, so none are included (the cma.or.ke sandbox page was unreachable). licence_no is exactly as CMA prints it (3-digit numbers with leading zeros, or N/YYYY for newer approvals); blank where CMA gives none (approved institutions, most CIS, ESOPs, two coffee brokers). code column is always blank (CMA publishes no codes). The same firm appears under several categories with different licence numbers, which is expected. For CIS rows: name = scheme name, notes = the sub-funds CMA lists; trailing words such as 'comprising of:' are removed; two entries worded '<manager> for approval to register <scheme>' (Swala, Globetec) are recorded under the scheme name, with the original text kept in notes; 'Tradiam Collective Investment Sche' is truncated in the source and kept as printed; one CIS entry gives only 'Faida Investment Bank Limited' (licence 1/2026). ALL-CAPS names are converted to Title Case, keeping acronyms. Addresses and websites are as published, including obvious CMA data slips such as Omni Marche Securite listing oldmutual.co.ke and ICEA Unit Trust listing sc.com."
+}

@@ -1,0 +1,18 @@
+{
+  "key": "post_offices",
+  "name": "Posta Kenya post offices and postal codes",
+  "version": "0.1.0",
+  "source": "Postal Corporation of Kenya, \"Locate a post office\" store-locator data on posta.co.ke/post-offices",
+  "source_url": "https://posta.co.ke/post-offices/",
+  "other_sources": [
+    "https://posta.co.ke/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1 (JSON feed behind the page)"
+  ],
+  "as_of": "2026-11-01",
+  "retrieved": "2026-11-01",
+  "row_count": 621,
+  "sha256": "4afef4e1c11833d6f87455a50965bd3be7fab148760ab7816fe0c544aaa4996c",
+  "natural_key": [
+    "postal_code"
+  ],
+  "notes": "Source states no date; as_of = retrieval date. 622 records: 1 dropped (Buru Buru, no postal code in source), 621 rows, no duplicate codes. The feed stores codes as numbers, so 85 codes beginning with 0 (Nairobi/Kiambu/Kajiado/Machakos/Murang'a range, e.g. Nairobi GPO 100 -> 00100, Thika 1000 -> 01000) were left-padded to 5 digits; no 5-digit code in the feed starts with 0, confirming the leading zeros were stripped. county_code is from the feed's city field (which holds the county name); blank for 5 rows where it is a combination (Muranga/Kiambu, Kiambu/Thika, Trans Nzoia/Bungoma, Kilifi/Mombasa) or unrecognised (Kiyu, for Mutha 90211). ALL CAPS words in names Title-Cased except GPO and JKIA."
+}

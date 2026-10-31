@@ -1,0 +1,20 @@
+{
+  "key": "credit_reference_bureaus",
+  "name": "CBK Licensed Credit Reference Bureaus",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya - Bank Supervision Annual Report 2025, Appendix XIX Directory of Credit Reference Bureaus (cross-checked against the Directory of Licensed CRBs, November 2022)",
+  "source_url": "https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/wp-content/uploads/2022/11/Directory-of-Licensed-CRBs-November-2022.pdf",
+    "https://www.centralbank.go.ke/bank-supervision/"
+  ],
+  "as_of": "2025-12-31",
+  "retrieved": "2026-11-01",
+  "row_count": 3,
+  "sha256": "380d148e567ded2a68d28113ee1b5e6040f569170c40e4937d759b265b15bca6",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "The standalone CRB directory linked from the CBK Bank Supervision page is still the November 2022 edition. The BSD Annual Report 2025 lists the same 3 CRBs. The directory gives no licence numbers. Date licensed is in dd.mm.yyyy form, as printed."
+}

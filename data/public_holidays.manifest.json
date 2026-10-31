@@ -1,0 +1,19 @@
+{
+  "key": "public_holidays",
+  "name": "Kenya public holidays 2026-2028",
+  "version": "0.1.0",
+  "source": "Kenya Law - Public Holidays Act (Cap. 110), revised 26 April 2024 (latest version); Kenya Gazette special issues on kenyalaw.org",
+  "source_url": "https://new.kenyalaw.org/akn/ke/act/1912/21/eng@2024-04-26",
+  "other_sources": [
+    "https://new.kenyalaw.org/akn/ke/officialGazette/2026-03-18/50/eng@2026-03-18",
+    "https://new.kenyalaw.org/akn/ke/officialGazette/2026-05-25/90/eng@2026-05-25"
+  ],
+  "as_of": "2024-04-26",
+  "retrieved": "2026-11-01",
+  "row_count": 36,
+  "sha256": "e32f20e0460f399b798f5e6087ef53448f94cc841bf49f757ac1048bf51f19c5",
+  "natural_key": [
+    "date"
+  ],
+  "notes": "Schedule Part I as amended by Act No. 3 of 2024 (Mazingira Day, 10 October, replaced Utamaduni Day); Kenya Law marks the 26 Apr 2024 version as the latest. Easter dates computed (Gregorian computus). Substitute days per SECTION 4 of the Act (not s.3): where a Part I day falls on a Sunday, the first succeeding day that is not a public holiday is the holiday and the Sunday itself ceases to be one (the Sunday rows are kept as kind=statutory for reference; payroll should treat the substitute row as the day off). Idd-ul-Fitr is in Part I but moon-dependent: included only for 2026 (20 Mar 2026, Gazette Notice No. 3955 of 18 Mar 2026, verified in the Gazette); 2027 and 2028 dates are not yet gazetted and are omitted. Idd-ul-Azha (Part II, Muslims only) and Diwali (Part III, Hindus only) are faith-restricted and omitted, except Eid-ul-Adha 27 May 2026 which was declared a national public holiday by Gazette Notice No. 7653 (s.3(1)), kind=gazetted. 2027-08-10 General Election Day included under s.2(4) (date = second Tuesday of August per Constitution Art. 101(1)); it is normally also confirmed by gazette notice, which has not yet been issued, and the President-elect swearing-in day (s.2(5)) is unknown so omitted. No other 2026 special holidays were found (a viral 25 June 2026 'gazette' was a fake). Holidays gazetted after 2026-11-01 are not reflected."
+}

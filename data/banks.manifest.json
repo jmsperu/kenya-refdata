@@ -1,0 +1,21 @@
+{
+  "key": "banks",
+  "name": "Kenyan banks (CBK-licensed commercial banks, mortgage finance institution, microfinance banks) with KEPSS/clearing bank code and SWIFT/BIC",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya: Directory of Licenced Commercial Banks, Mortgage Finance Institutions and Authorised Non-Operating Bank Holding Companies (July 2026 upload) + Directory of Licenced Microfinance Banks (Feb 2026); bank codes from Kenya Bankers Association Bank Branch Code list 2026; SWIFT from each bank's own website or CBK KEPSS Rules Schedule B",
+  "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf",
+    "https://www.kba.co.ke/wp-content/uploads/2026/09/Branch-Code-2026.pdf",
+    "https://www.kba.co.ke/bank-branch-code/",
+    "https://centralbank.go.ke/images/RTGS_Schedule_B.pdf"
+  ],
+  "as_of": "2026-07-01",
+  "retrieved": "2026-11-01",
+  "row_count": 53,
+  "sha256": "f0fe9f3a471b9fd3113735abe92cd16f2ce740d9fb0806936ec789e0eea2ff67",
+  "natural_key": [
+    "name"
+  ],
+  "notes": "38 commercial banks + 1 mortgage finance (HFCB Limited) + 14 microfinance banks, exactly as listed by CBK; CBK directories are undated inside, as_of = upload month (commercial July 2026, MFB Feb 2026). No bank under receivership/statutory management appears in the current CBK directories (e.g. Charterhouse, Imperial, Chase are not listed), so none are included. 'code' = 2-digit bank code from the KBA Sept 2026 bank-branch code list (matched by bank name; consistent with codes banks state on their own sites, e.g. Co-op 11, SBM 060, Sidian 066); 10 microfinance banks have no code in that list and are left blank. Kenya Post Office Savings Bank (62) and Central Bank of Kenya (09) are in the KBA list but are not CBK-licensed banks, so excluded. SWIFT: 15 confirmed on the bank's own (or parent group's) website (swift_source_url); 15 taken from CBK KEPSS Rules Schedule B (official CBK list of participant BICs, as at Sep 2013) only where the bank's name/entity is unchanged since, marked in notes; blank where neither source gives it or the bank was renamed since 2013 (Access, GTB, Kingdom, M-Oriental, NCBA, Paramount, Premier, Spire, HFCB) and for all microfinance banks. swift.com BIC search returned HTTP 403. Extra columns: notes, source_url (CBK directory for the row)."
+}

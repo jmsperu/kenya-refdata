@@ -1,0 +1,18 @@
+{
+  "key": "constituencies",
+  "name": "Constituencies of Kenya (IEBC)",
+  "version": "0.1.0",
+  "source": "IEBC, Registered Voters per Constituency for the 2022 General Election",
+  "source_url": "https://www.iebc.or.ke/docs/rov_per_constituency.pdf",
+  "other_sources": [
+    "https://www.iebc.or.ke/docs/rov_per_caw.pdf"
+  ],
+  "as_of": "2022-06-23",
+  "retrieved": "2026-11-01",
+  "row_count": 290,
+  "sha256": "94d7ae90a41711e1f1012b677af136a8d3e5b8de6fae1ecb818bc0db38dd1ebd",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "290 constituencies. Names Title-Cased from the ALL CAPS source. Cross-checked: code, name and county code identical in the per-constituency and per-ward PDFs; sum of ward registered voters equals the constituency figure for all 290. The PDFs state no publication date; as_of = PDF creation date (2022-06-23), i.e. the final register for the 9 Aug 2022 General Election. Boundaries per IEBC 2012 delimitation (unchanged for 2022)."
+}

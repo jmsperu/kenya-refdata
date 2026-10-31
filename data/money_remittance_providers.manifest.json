@@ -1,0 +1,19 @@
+{
+  "key": "money_remittance_providers",
+  "name": "CBK Licensed Money Remittance Providers",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya - Directory of Licenced Money Remittance Providers (MRPs) as at September 30, 2026",
+  "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/10/Directory-of-Licenced-Money-Remittance-Providers-as-at-September-30-2026.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/bank-supervision/"
+  ],
+  "as_of": "2026-09-30",
+  "retrieved": "2026-11-01",
+  "row_count": 37,
+  "sha256": "579ae304ed6366767c9739b9fdd6303746e55084e8c35656216d67521e9faed2",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "The as_of date comes from the document title/filename. The directory gives no licence numbers. Date of licencing is in notes. Website is filled only where the directory prints one (Kuwapay). Two fixes for line wrapping: the Hodan name was joined from 'Ex- change' to 'Exchange', and the trailing period after Dahabshill 'Limited.' was dropped."
+}

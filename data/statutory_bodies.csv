@@ -1,0 +1,32 @@
+category,name,licence_no,code,location,website,notes,active
+tax_authority,Kenya Revenue Authority,,,,https://www.kra.go.ke,"Kenya Revenue Authority Act (Cap. 469). PAYE, VAT, withholding taxes; the Commissioner-General is the 'collector' of the Affordable Housing Levy under the Affordable Housing Act, 2024.",1
+social_security,National Social Security Fund,,,,https://www.nssf.or.ke,"National Social Security Fund Act, 2013. Employer/employee pension contributions.",1
+social_health,Social Health Authority,,,,https://www.sha.go.ke,"Social Health Insurance Act, 2023. Administers the Social Health Insurance Fund (SHIF); replaced the National Hospital Insurance Fund (NHIF).",1
+housing,Affordable Housing Board,,,,https://www.bomayangu.go.ke,"Established by s. 16 of the Affordable Housing Act, 2024; manages the Affordable Housing Fund (s. 8). Levy is collected by KRA. Website is the Boma Yangu Affordable Housing Programme portal.",1
+training_levy,National Industrial Training Authority,,,,https://www.nita.go.ke,Industrial Training Act (Cap. 237). Industrial training levy.,1
+student_loans,Higher Education Loans Board,,,,https://www.helb.co.ke,Higher Education Loans Board Act (Cap. 213A). Employer remittance of loan recoveries.,1
+regulator,Central Bank of Kenya,,,,https://www.centralbank.go.ke,"Central Bank of Kenya Act (Cap. 491). Banks, microfinance banks, payment service providers, forex bureaus, digital credit providers.",1
+regulator,Capital Markets Authority,,,,https://www.cma.or.ke,Capital Markets Act (Cap. 485A). Site returned HTTP 502/504 at retrieval (2026-11-01); domain is the official one.,1
+regulator,Sacco Societies Regulatory Authority,,,,https://www.sasra.go.ke,"Sacco Societies Act, 2008.",1
+regulator,Insurance Regulatory Authority,,,,https://www.ira.go.ke,Insurance Act (Cap. 487).,1
+regulator,Retirement Benefits Authority,,,,https://www.rba.go.ke,Retirement Benefits Act (Cap. 197). Site sits behind a Cloudflare challenge (HTTP 403 to scripts).,1
+regulator,Communications Authority of Kenya,,,,https://www.ca.go.ke,"Kenya Information and Communications Act (Cap. 411A). Numbering plan, telecom licensing.",1
+regulator,Competition Authority of Kenya,,,,https://www.cak.go.ke,"Competition Act, 2010.",1
+data_protection,Office of the Data Protection Commissioner,,,,https://www.odpc.go.ke,"Data Protection Act, 2019. Registration of data controllers/processors. Site returned Cloudflare 525 (origin SSL error) at retrieval.",1
+financial_intelligence,Financial Reporting Centre,,,,https://www.frc.go.ke,Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A). AML/CFT reporting.,1
+registry,Business Registration Service,,,,https://brs.go.ke,"Business Registration Service Act, 2015. Companies, business names, partnerships, beneficial ownership.",1
+transport,National Transport and Safety Authority,,,,https://ntsa.go.ke,"National Transport and Safety Authority Act, 2012.",1
+standards,Kenya Bureau of Standards,,,,https://kebs.go.ke,Standards Act (Cap. 496). Former domain kebs.org no longer serves the site.,1
+deposit_insurance,Kenya Deposit Insurance Corporation,,,,https://www.kdic.go.ke,"Kenya Deposit Insurance Act, 2012.",1
+insurance_compensation,Policyholders Compensation Fund,,,,https://www.pcf.go.ke,Insurance Act (Cap. 487) s. 179.,1
+anti_corruption,Ethics and Anti-Corruption Commission,,,,https://eacc.go.ke,"Ethics and Anti-Corruption Commission Act, 2011.",1
+electoral,Independent Electoral and Boundaries Commission,,,,https://www.iebc.or.ke,"Independent Electoral and Boundaries Commission Act, 2011.",1
+statistics,Kenya National Bureau of Statistics,,,,https://www.knbs.or.ke,"Statistics Act, 2006.",1
+examinations,Kenya National Examinations Council,,,,https://www.knec.ac.ke,"Kenya National Examinations Council Act, 2012.",1
+qualifications,Kenya National Qualifications Authority,,,,https://www.knqa.go.ke,"Kenya National Qualifications Framework Act, 2014 (Cap. 214). Site returned HTTP 500 at retrieval.",1
+employment,National Employment Authority,,,,https://www.nea.go.ke,"National Employment Authority Act, 2016. Registration of private employment agencies; foreign employment.",1
+remuneration,Salaries and Remuneration Commission,,,,https://src.go.ke,Constitution Art. 230. Public sector remuneration.,1
+procurement,Public Procurement Regulatory Authority,,,,https://ppra.go.ke,"Public Procurement and Asset Disposal Act, 2015.",1
+disability,National Council for Persons with Disabilities,,,,https://ncpwd.go.ke,Persons with Disabilities Act. Registration of persons with disabilities (relevant to PAYE exemption).,1
+unclaimed_assets,Unclaimed Financial Assets Authority,,,,https://www.ufaa.go.ke,"Unclaimed Financial Assets Act, 2011. Site timed out at retrieval.",1
+government_ministry,Ministry of Labour and Social Protection,,,,https://labour.go.ke,"State Department for Labour and Skills Development: labour officers, Labour Relations, Occupational Safety and Health; site title 'Labour and Skills Development'.",1

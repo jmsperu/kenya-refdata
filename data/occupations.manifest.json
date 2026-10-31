@@ -1,0 +1,18 @@
+{
+  "key": "occupations",
+  "name": "ISCO-08 occupation classification (used because KNOCS/KeSCO is not openly published)",
+  "version": "0.1.0",
+  "source": "International Labour Organization - ISCO-08 Structure and definitions (English)",
+  "source_url": "https://webapps.ilo.org/ilostat-files/ISCO/newdocs-08-2021/ISCO-08/ISCO-08%20EN%20Structure%20and%20definitions.xlsx",
+  "other_sources": [
+    "https://www.ilo.org/public/english/bureau/stat/isco/isco08/"
+  ],
+  "as_of": "2026-11-01",
+  "retrieved": "2026-11-01",
+  "row_count": 619,
+  "sha256": "da960b784e8a3fdf362e2ed99418f7109184ccdf74e5c4be86ad9da69e8a381a",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "This is ILO ISCO-08, NOT the Kenyan KNOCS. KNOCS 2000 was replaced by the Kenya Standard Classification of Occupations (KeSCO 2022, Ministry of Labour and Social Protection with KNBS, aligned to ISCO-08), but no openly downloadable official copy was found on knbs.or.ke or labour.go.ke. 619 rows = 10 major, 43 sub-major, 130 minor, 436 unit groups (matches ISCO-08 totals); parent_code = code minus last digit. Armed forces codes keep leading zeros (0, 01, 011, 0110). The file states no publication date; as_of is the retrieval date."
+}

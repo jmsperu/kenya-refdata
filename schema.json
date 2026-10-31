@@ -1,0 +1,29 @@
+{
+  "description": "Natural key and required columns per dataset. Every CSV also carries `active` (1/0); optional columns: effective_from, effective_to (YYYY-MM-DD), source_url (row-level source).",
+  "datasets": {
+    "counties": {"key": ["code"], "required": ["code", "name"]},
+    "sub_counties": {"key": ["county_code", "name"], "required": ["county_code", "name"]},
+    "constituencies": {"key": ["code"], "required": ["code", "name", "county_code"]},
+    "wards": {"key": ["code"], "required": ["code", "name", "constituency_code", "county_code"]},
+    "post_offices": {"key": ["postal_code"], "required": ["postal_code", "name"]},
+    "banks": {"key": ["name"], "required": ["name", "type"]},
+    "bank_branches": {"key": ["bank_code", "branch_code"], "required": ["bank_code", "branch_code", "name"]},
+    "payment_service_providers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "money_remittance_providers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "credit_reference_bureaus": {"key": ["category", "name"], "required": ["category", "name"]},
+    "digital_credit_providers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "forex_bureaus": {"key": ["category", "name"], "required": ["category", "name"]},
+    "saccos": {"key": ["category", "name"], "required": ["category", "name"]},
+    "insurers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "insurance_brokers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "cma_licensees": {"key": ["category", "name"], "required": ["category", "name"]},
+    "court_stations": {"key": ["category", "name"], "required": ["category", "name"]},
+    "auctioneers": {"key": ["category", "name"], "required": ["category", "name"]},
+    "statutory_bodies": {"key": ["category", "name"], "required": ["category", "name"]},
+    "msisdn_prefixes": {"key": ["prefix"], "required": ["prefix", "operator"]},
+    "public_holidays": {"key": ["date"], "required": ["date", "name", "kind"]},
+    "currencies": {"key": ["code"], "required": ["code", "name"]},
+    "education_levels": {"key": ["code"], "required": ["code", "name"]},
+    "occupations": {"key": ["code"], "required": ["code", "name", "level"]}
+  }
+}

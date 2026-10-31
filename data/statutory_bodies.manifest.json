@@ -1,0 +1,19 @@
+{
+  "key": "statutory_bodies",
+  "name": "Kenyan statutory bodies for HR, payroll, finance and compliance",
+  "version": "0.1.0",
+  "source": "Each institution's official website (verified by HTTP request on 2026-11-01); Affordable Housing Act 2024 on kenyalaw.org for the Affordable Housing Board",
+  "source_url": "https://new.kenyalaw.org/akn/ke/act/2024/2",
+  "other_sources": [
+    "https://labour.go.ke/"
+  ],
+  "as_of": "2026-11-01",
+  "retrieved": "2026-11-01",
+  "row_count": 31,
+  "sha256": "89e7d6a87dc72bccf16fa78327eb66a3a1463759cc0e2c7043e5cd408fe0f6dd",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "Curated list, not an official register. licence_no, code and location left blank (no official value applies). Websites checked with curl -sI on 2026-11-01: most returned 200; CMA (502/504), RBA (403 Cloudflare challenge), ODPC (Cloudflare 525), KNQA (500) and UFAA (timeout) did not return 200 but these are the institutions' known official domains, noted per row. KEBS now serves from kebs.go.ke (kebs.org returns 404). The governing Act references in notes are informational and were not each verified against Kenya Law, except the Affordable Housing Act 2024 (Board s.16, Fund s.8, KRA Commissioner-General as levy collector) and Cap. 469 for KRA. NHIF is not listed: replaced by the Social Health Authority."
+}

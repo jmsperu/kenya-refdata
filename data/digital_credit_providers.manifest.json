@@ -1,0 +1,20 @@
+{
+  "key": "digital_credit_providers",
+  "name": "CBK Licensed Digital Credit Providers",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya - Directory of Digital Credit Providers, updated on September 29, 2026",
+  "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Digital-Credit-Providers-September-2026.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/2022/09/19/directory-of-digital-credit-providers/",
+    "https://www.centralbank.go.ke/bank-supervision/"
+  ],
+  "as_of": "2026-09-29",
+  "retrieved": "2026-11-01",
+  "row_count": 281,
+  "sha256": "d3eead16701510a2bd4907f67a4f868e9cfda89f3cb84aca8f90d67289f3a162",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "281 entries, numbered 1-281 with no gaps. The directory gives no licence numbers. Location = physical address as given. Date licensed is in notes. Names are kept as printed, including 'trading as' parts and 'Hawkins Credit Limited, Nakuru'."
+}

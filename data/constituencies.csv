@@ -1,0 +1,291 @@
+code,name,county_code,active
+001,Changamwe,001,1
+002,Jomvu,001,1
+003,Kisauni,001,1
+004,Nyali,001,1
+005,Likoni,001,1
+006,Mvita,001,1
+007,Msambweni,002,1
+008,Lungalunga,002,1
+009,Matuga,002,1
+010,Kinango,002,1
+011,Kilifi North,003,1
+012,Kilifi South,003,1
+013,Kaloleni,003,1
+014,Rabai,003,1
+015,Ganze,003,1
+016,Malindi,003,1
+017,Magarini,003,1
+018,Garsen,004,1
+019,Galole,004,1
+020,Bura,004,1
+021,Lamu East,005,1
+022,Lamu West,005,1
+023,Taveta,006,1
+024,Wundanyi,006,1
+025,Mwatate,006,1
+026,Voi,006,1
+027,Garissa Township,007,1
+028,Balambala,007,1
+029,Lagdera,007,1
+030,Dadaab,007,1
+031,Fafi,007,1
+032,Ijara,007,1
+033,Wajir North,008,1
+034,Wajir East,008,1
+035,Tarbaj,008,1
+036,Wajir West,008,1
+037,Eldas,008,1
+038,Wajir South,008,1
+039,Mandera West,009,1
+040,Banissa,009,1
+041,Mandera North,009,1
+042,Mandera South,009,1
+043,Mandera East,009,1
+044,Lafey,009,1
+045,Moyale,010,1
+046,North Horr,010,1
+047,Saku,010,1
+048,Laisamis,010,1
+049,Isiolo North,011,1
+050,Isiolo South,011,1
+051,Igembe South,012,1
+052,Igembe Central,012,1
+053,Igembe North,012,1
+054,Tigania West,012,1
+055,Tigania East,012,1
+056,North Imenti,012,1
+057,Buuri,012,1
+058,Central Imenti,012,1
+059,South Imenti,012,1
+060,Maara,013,1
+061,Chuka/Igambang'ombe,013,1
+062,Tharaka,013,1
+063,Manyatta,014,1
+064,Runyenjes,014,1
+065,Mbeere South,014,1
+066,Mbeere North,014,1
+067,Mwingi North,015,1
+068,Mwingi West,015,1
+069,Mwingi Central,015,1
+070,Kitui West,015,1
+071,Kitui Rural,015,1
+072,Kitui Central,015,1
+073,Kitui East,015,1
+074,Kitui South,015,1
+075,Masinga,016,1
+076,Yatta,016,1
+077,Kangundo,016,1
+078,Matungulu,016,1
+079,Kathiani,016,1
+080,Mavoko,016,1
+081,Machakos Town,016,1
+082,Mwala,016,1
+083,Mbooni,017,1
+084,Kilome,017,1
+085,Kaiti,017,1
+086,Makueni,017,1
+087,Kibwezi West,017,1
+088,Kibwezi East,017,1
+089,Kinangop,018,1
+090,Kipipiri,018,1
+091,Ol Kalou,018,1
+092,Ol Jorok,018,1
+093,Ndaragwa,018,1
+094,Tetu,019,1
+095,Kieni,019,1
+096,Mathira,019,1
+097,Othaya,019,1
+098,Mukurweini,019,1
+099,Nyeri Town,019,1
+100,Mwea,020,1
+101,Gichugu,020,1
+102,Ndia,020,1
+103,Kirinyaga Central,020,1
+104,Kangema,021,1
+105,Mathioya,021,1
+106,Kiharu,021,1
+107,Kigumo,021,1
+108,Maragwa,021,1
+109,Kandara,021,1
+110,Gatanga,021,1
+111,Gatundu South,022,1
+112,Gatundu North,022,1
+113,Juja,022,1
+114,Thika Town,022,1
+115,Ruiru,022,1
+116,Githunguri,022,1
+117,Kiambu,022,1
+118,Kiambaa,022,1
+119,Kabete,022,1
+120,Kikuyu,022,1
+121,Limuru,022,1
+122,Lari,022,1
+123,Turkana North,023,1
+124,Turkana West,023,1
+125,Turkana Central,023,1
+126,Loima,023,1
+127,Turkana South,023,1
+128,Turkana East,023,1
+129,Kapenguria,024,1
+130,Sigor,024,1
+131,Kacheliba,024,1
+132,Pokot South,024,1
+133,Samburu West,025,1
+134,Samburu North,025,1
+135,Samburu East,025,1
+136,Kwanza,026,1
+137,Endebess,026,1
+138,Saboti,026,1
+139,Kiminini,026,1
+140,Cherangany,026,1
+141,Soy,027,1
+142,Turbo,027,1
+143,Moiben,027,1
+144,Ainabkoi,027,1
+145,Kapseret,027,1
+146,Kesses,027,1
+147,Marakwet East,028,1
+148,Marakwet West,028,1
+149,Keiyo North,028,1
+150,Keiyo South,028,1
+151,Tinderet,029,1
+152,Aldai,029,1
+153,Nandi Hills,029,1
+154,Chesumei,029,1
+155,Emgwen,029,1
+156,Mosop,029,1
+157,Tiaty,030,1
+158,Baringo North,030,1
+159,Baringo Central,030,1
+160,Baringo South,030,1
+161,Mogotio,030,1
+162,Eldama Ravine,030,1
+163,Laikipia West,031,1
+164,Laikipia East,031,1
+165,Laikipia North,031,1
+166,Molo,032,1
+167,Njoro,032,1
+168,Naivasha,032,1
+169,Gilgil,032,1
+170,Kuresoi South,032,1
+171,Kuresoi North,032,1
+172,Subukia,032,1
+173,Rongai,032,1
+174,Bahati,032,1
+175,Nakuru Town West,032,1
+176,Nakuru Town East,032,1
+177,Kilgoris,033,1
+178,Emurua Dikirr,033,1
+179,Narok North,033,1
+180,Narok East,033,1
+181,Narok South,033,1
+182,Narok West,033,1
+183,Kajiado North,034,1
+184,Kajiado Central,034,1
+185,Kajiado East,034,1
+186,Kajiado West,034,1
+187,Kajiado South,034,1
+188,Kipkelion East,035,1
+189,Kipkelion West,035,1
+190,Ainamoi,035,1
+191,Bureti,035,1
+192,Belgut,035,1
+193,Sigowet/Soin,035,1
+194,Sotik,036,1
+195,Chepalungu,036,1
+196,Bomet East,036,1
+197,Bomet Central,036,1
+198,Konoin,036,1
+199,Lugari,037,1
+200,Likuyani,037,1
+201,Malava,037,1
+202,Lurambi,037,1
+203,Navakholo,037,1
+204,Mumias West,037,1
+205,Mumias East,037,1
+206,Matungu,037,1
+207,Butere,037,1
+208,Khwisero,037,1
+209,Shinyalu,037,1
+210,Ikolomani,037,1
+211,Vihiga,038,1
+212,Sabatia,038,1
+213,Hamisi,038,1
+214,Luanda,038,1
+215,Emuhaya,038,1
+216,Mt. Elgon,039,1
+217,Sirisia,039,1
+218,Kabuchai,039,1
+219,Bumula,039,1
+220,Kanduyi,039,1
+221,Webuye East,039,1
+222,Webuye West,039,1
+223,Kimilili,039,1
+224,Tongaren,039,1
+225,Teso North,040,1
+226,Teso South,040,1
+227,Nambale,040,1
+228,Matayos,040,1
+229,Butula,040,1
+230,Funyula,040,1
+231,Budalangi,040,1
+232,Ugenya,041,1
+233,Ugunja,041,1
+234,Alego Usonga,041,1
+235,Gem,041,1
+236,Bondo,041,1
+237,Rarieda,041,1
+238,Kisumu East,042,1
+239,Kisumu West,042,1
+240,Kisumu Central,042,1
+241,Seme,042,1
+242,Nyando,042,1
+243,Muhoroni,042,1
+244,Nyakach,042,1
+245,Kasipul,043,1
+246,Kabondo Kasipul,043,1
+247,Karachuonyo,043,1
+248,Rangwe,043,1
+249,Homa Bay Town,043,1
+250,Ndhiwa,043,1
+251,Suba North,043,1
+252,Suba South,043,1
+253,Rongo,044,1
+254,Awendo,044,1
+255,Suna East,044,1
+256,Suna West,044,1
+257,Uriri,044,1
+258,Nyatike,044,1
+259,Kuria West,044,1
+260,Kuria East,044,1
+261,Bonchari,045,1
+262,South Mugirango,045,1
+263,Bomachoge Borabu,045,1
+264,Bobasi,045,1
+265,Bomachoge Chache,045,1
+266,Nyaribari Masaba,045,1
+267,Nyaribari Chache,045,1
+268,Kitutu Chache North,045,1
+269,Kitutu Chache South,045,1
+270,Kitutu Masaba,046,1
+271,West Mugirango,046,1
+272,North Mugirango,046,1
+273,Borabu,046,1
+274,Westlands,047,1
+275,Dagoretti North,047,1
+276,Dagoretti South,047,1
+277,Langata,047,1
+278,Kibra,047,1
+279,Roysambu,047,1
+280,Kasarani,047,1
+281,Ruaraka,047,1
+282,Embakasi South,047,1
+283,Embakasi North,047,1
+284,Embakasi Central,047,1
+285,Embakasi East,047,1
+286,Embakasi West,047,1
+287,Makadara,047,1
+288,Kamukunji,047,1
+289,Starehe,047,1
+290,Mathare,047,1

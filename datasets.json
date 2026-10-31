@@ -1,0 +1,162 @@
+[
+  {
+    "key": "counties",
+    "name": "Counties of Kenya",
+    "source": "Constitution of Kenya 2010, First Schedule (Counties) [names]; IEBC, Registered Voters per County Assembly Ward for the 2022 General Election [codes]",
+    "source_url": "https://klrc.go.ke/index.php/constitution-of-kenya/163-schedules-schedules/165-first-schedule-counties/434-1-counties",
+    "as_of": "2010-08-27",
+    "row_count": 47
+  },
+  {
+    "key": "sub_counties",
+    "name": "Sub-counties of Kenya (KNBS 2019 census)",
+    "source": "KNBS, 2019 Kenya Population and Housing Census Volume I: Population by County and Sub-County, Table 2.5",
+    "source_url": "https://www.knbs.or.ke/wp-content/uploads/2023/09/2019-Kenya-population-and-Housing-Census-Volume-1-Population-By-County-And-Sub-County.pdf",
+    "as_of": "2019-11-04",
+    "row_count": 333
+  },
+  {
+    "key": "constituencies",
+    "name": "Constituencies of Kenya (IEBC)",
+    "source": "IEBC, Registered Voters per Constituency for the 2022 General Election",
+    "source_url": "https://www.iebc.or.ke/docs/rov_per_constituency.pdf",
+    "as_of": "2022-06-23",
+    "row_count": 290
+  },
+  {
+    "key": "wards",
+    "name": "County Assembly Wards of Kenya (IEBC)",
+    "source": "IEBC, Registered Voters per County Assembly Ward for the 2022 General Election",
+    "source_url": "https://www.iebc.or.ke/docs/rov_per_caw.pdf",
+    "as_of": "2022-06-23",
+    "row_count": 1450
+  },
+  {
+    "key": "post_offices",
+    "name": "Posta Kenya post offices and postal codes",
+    "source": "Postal Corporation of Kenya, \"Locate a post office\" store-locator data on posta.co.ke/post-offices",
+    "source_url": "https://posta.co.ke/post-offices/",
+    "as_of": "2026-11-01",
+    "row_count": 621
+  },
+  {
+    "key": "banks",
+    "name": "Kenyan banks (CBK-licensed commercial banks, mortgage finance institution, microfinance banks) with KEPSS/clearing bank code and SWIFT/BIC",
+    "source": "Central Bank of Kenya: Directory of Licenced Commercial Banks, Mortgage Finance Institutions and Authorised Non-Operating Bank Holding Companies (July 2026 upload) + Directory of Licenced Microfinance Banks (Feb 2026); bank codes from Kenya Bankers Association Bank Branch Code list 2026; SWIFT from each bank's own website or CBK KEPSS Rules Schedule B",
+    "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf",
+    "as_of": "2026-07-01",
+    "row_count": 53
+  },
+  {
+    "key": "bank_branches",
+    "name": "Kenyan bank branches with clearing (bank + branch) codes",
+    "source": "Kenya Bankers Association: Bank Branch Code list 2026 (Branch-Code-2026.pdf, linked from kba.co.ke/bank-branch-code/)",
+    "source_url": "https://www.kba.co.ke/wp-content/uploads/2026/09/Branch-Code-2026.pdf",
+    "as_of": "2026-09-16",
+    "row_count": 1924
+  },
+  {
+    "key": "payment_service_providers",
+    "name": "CBK Authorised Payment Service Providers",
+    "source": "Central Bank of Kenya - Directory of Authorized Payment Service Providers (PSPs) as at August 10, 2026",
+    "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+    "as_of": "2026-08-10",
+    "row_count": 44
+  },
+  {
+    "key": "money_remittance_providers",
+    "name": "CBK Licensed Money Remittance Providers",
+    "source": "Central Bank of Kenya - Directory of Licenced Money Remittance Providers (MRPs) as at September 30, 2026",
+    "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/10/Directory-of-Licenced-Money-Remittance-Providers-as-at-September-30-2026.pdf",
+    "as_of": "2026-09-30",
+    "row_count": 37
+  },
+  {
+    "key": "credit_reference_bureaus",
+    "name": "CBK Licensed Credit Reference Bureaus",
+    "source": "Central Bank of Kenya - Bank Supervision Annual Report 2025, Appendix XIX Directory of Credit Reference Bureaus (cross-checked against the Directory of Licensed CRBs, November 2022)",
+    "source_url": "https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf",
+    "as_of": "2025-12-31",
+    "row_count": 3
+  },
+  {
+    "key": "digital_credit_providers",
+    "name": "CBK Licensed Digital Credit Providers",
+    "source": "Central Bank of Kenya - Directory of Digital Credit Providers, updated on September 29, 2026",
+    "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Digital-Credit-Providers-September-2026.pdf",
+    "as_of": "2026-09-29",
+    "row_count": 281
+  },
+  {
+    "key": "forex_bureaus",
+    "name": "CBK Licensed Foreign Exchange Bureaus",
+    "source": "Central Bank of Kenya - Directory of Licenced Foreign Exchange Bureaus as at September 30, 2026",
+    "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/10/Directory-of-Licenced-Foreign-Exchange-Bureaus-as-at-September-30-2026.pdf",
+    "as_of": "2026-09-30",
+    "row_count": 96
+  },
+  {
+    "key": "saccos",
+    "name": "SASRA Licensed and Authorised SACCO Societies 2026",
+    "source": "Sacco Societies Regulatory Authority - List of Licensed and Authorised Sacco Societies in Kenya for the Financial Year ending 31st December 2026 (dated 3 February 2026)",
+    "source_url": "https://www.sasra.go.ke/download/list-of-licensed-and-authorized-sacco-societies-in-kenya-for-the-financial-year-ending-31st-december-2026/?wpdmdl=1573",
+    "as_of": "2026-02-03",
+    "row_count": 357
+  },
+  {
+    "key": "cma_licensees",
+    "name": "Capital Markets Authority (Kenya) licensees, approved institutions and approved schemes",
+    "source": "Capital Markets Authority Kenya - Licensees/Market Players portal (licensees.cma.or.ke), all 20 category pages",
+    "source_url": "https://licensees.cma.or.ke/",
+    "as_of": "2026-11-01",
+    "row_count": 342
+  },
+  {
+    "key": "statutory_bodies",
+    "name": "Kenyan statutory bodies for HR, payroll, finance and compliance",
+    "source": "Each institution's official website (verified by HTTP request on 2026-11-01); Affordable Housing Act 2024 on kenyalaw.org for the Affordable Housing Board",
+    "source_url": "https://new.kenyalaw.org/akn/ke/act/2024/2",
+    "as_of": "2026-11-01",
+    "row_count": 31
+  },
+  {
+    "key": "msisdn_prefixes",
+    "name": "Kenyan mobile number prefixes (NDC allocations)",
+    "source": "Communications Authority of Kenya - Telecommunication Numbering Plan for Kenya (CA/SRM/S&N/NNP/APRIL/2026), section 1.1(b)",
+    "source_url": "https://www.ca.go.ke/sites/default/files/2026-04/Numbering%20Plan%20Kenya%20April%202026.pdf",
+    "as_of": "2026-04-01",
+    "row_count": 130
+  },
+  {
+    "key": "public_holidays",
+    "name": "Kenya public holidays 2026-2028",
+    "source": "Kenya Law - Public Holidays Act (Cap. 110), revised 26 April 2024 (latest version); Kenya Gazette special issues on kenyalaw.org",
+    "source_url": "https://new.kenyalaw.org/akn/ke/act/1912/21/eng@2024-04-26",
+    "as_of": "2024-04-26",
+    "row_count": 36
+  },
+  {
+    "key": "currencies",
+    "name": "ISO 4217 currency codes (List One, active)",
+    "source": "SIX Financial Information (ISO 4217 Maintenance Agency) - ISO 4217 List One: Currency, fund and precious metal codes",
+    "source_url": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "as_of": "2026-09-17",
+    "row_count": 178
+  },
+  {
+    "key": "education_levels",
+    "name": "Kenya National Qualifications Framework levels",
+    "source": "Kenya Law - The Kenya National Qualifications Framework (General) Regulations, 2025 (L.N. 94 of 2025), First Schedule Part 4 (Minimum Entry Requirements table)",
+    "source_url": "https://new.kenyalaw.org/akn/ke/act/ln/2025/94/eng@2025-05-30",
+    "as_of": "2025-05-30",
+    "row_count": 10
+  },
+  {
+    "key": "occupations",
+    "name": "ISCO-08 occupation classification (used because KNOCS/KeSCO is not openly published)",
+    "source": "International Labour Organization - ISCO-08 Structure and definitions (English)",
+    "source_url": "https://webapps.ilo.org/ilostat-files/ISCO/newdocs-08-2021/ISCO-08/ISCO-08%20EN%20Structure%20and%20definitions.xlsx",
+    "as_of": "2026-11-01",
+    "row_count": 619
+  }
+]

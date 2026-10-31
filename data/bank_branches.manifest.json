@@ -1,0 +1,21 @@
+{
+  "key": "bank_branches",
+  "name": "Kenyan bank branches with clearing (bank + branch) codes",
+  "version": "0.1.0",
+  "source": "Kenya Bankers Association: Bank Branch Code list 2026 (Branch-Code-2026.pdf, linked from kba.co.ke/bank-branch-code/)",
+  "source_url": "https://www.kba.co.ke/wp-content/uploads/2026/09/Branch-Code-2026.pdf",
+  "other_sources": [
+    "https://www.kba.co.ke/bank-branch-code/",
+    "https://www.bankofbarodakenya.co.ke/international-banking/remittance/swift",
+    "https://www.absabank.co.ke/content/dam/kenya/absa/pdf/kenya-branch-codes.pdf"
+  ],
+  "as_of": "2026-09-16",
+  "retrieved": "2026-11-01",
+  "row_count": 1924,
+  "sha256": "51b76b230aad29c7fd990c78f28cb3bc7396da80cd91e13b7ae48684e8cd1f8a",
+  "natural_key": [
+    "bank_code",
+    "branch_code"
+  ],
+  "notes": "Single consolidated KBA list (41 pages, PDF created 2026-09-16) covering all 38 commercial banks, HFCB and 4 microfinance banks (KWFT 78, Faulu 79, Caritas 80, Salaam 81); other 10 MFBs have no bank code so no branch codes. Parsed with pdftotext -layout; 2042 rows -> excluded 9 Central Bank of Kenya (09) and 98 Postbank (62) rows (not in banks.csv), 4 exact duplicates and 1 malformed duplicate ('07 33 River Road', same as 07 033). 7 codes appear twice with different names; kept first listed: 03/152 'Absa Imaara Mall' (alt 'Absa Imara Mall'), 07/237 'The Nord, Ruiru Branch' (alt 'The Nord Ruiru'), 31/024 'Kisii' (alt 'Kisii Branch'), 57/040 'Dunga Road' (alt 'Lusaka Road'), 63/024 'BuruBuru Branch' (alt 'Buru Buru'), 68/212 'Gikomba 2 Sub Branch', 74/020 'Mihrab' (alt 'China Town Satellite Branch'). Names kept exactly as KBA spells them (mixed case, some ALL CAPS such as 'KCB GAKOROMONE' left as-is). Extra columns: county_code (3-digit county code as given by KBA), swift_source_url. Branch BICs only for Bank of Baroda (14 branches, mapped by branch name from the bank's own SWIFT page). Spot-checked Absa codes against Absa's own branch-code PDF (match)."
+}

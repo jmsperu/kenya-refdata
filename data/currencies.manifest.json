@@ -1,0 +1,18 @@
+{
+  "key": "currencies",
+  "name": "ISO 4217 currency codes (List One, active)",
+  "version": "0.1.0",
+  "source": "SIX Financial Information (ISO 4217 Maintenance Agency) - ISO 4217 List One: Currency, fund and precious metal codes",
+  "source_url": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+  "other_sources": [
+    "https://www.six-group.com/en/products-services/financial-information/data-standards.html"
+  ],
+  "as_of": "2026-09-17",
+  "retrieved": "2026-11-01",
+  "row_count": 178,
+  "sha256": "08c4f343243daa24a87e2cb5993634fc540e0cf6f9f3c66fb7f205c68646e9a1",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "Deduplicated by alphabetic code (one row per code; no conflicting duplicates found). Includes the fund codes and X-codes in List One (e.g. XAU, XDR, XTS, XXX, BOV, USN). minor_units blank where List One says N.A. as_of = the list's Pblshd attribute."
+}

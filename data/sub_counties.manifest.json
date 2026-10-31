@@ -1,0 +1,19 @@
+{
+  "key": "sub_counties",
+  "name": "Sub-counties of Kenya (KNBS 2019 census)",
+  "version": "0.1.0",
+  "source": "KNBS, 2019 Kenya Population and Housing Census Volume I: Population by County and Sub-County, Table 2.5",
+  "source_url": "https://www.knbs.or.ke/wp-content/uploads/2023/09/2019-Kenya-population-and-Housing-Census-Volume-1-Population-By-County-And-Sub-County.pdf",
+  "other_sources": [
+    "https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-i-population-by-county-and-sub-county"
+  ],
+  "as_of": "2019-11-04",
+  "retrieved": "2026-11-01",
+  "row_count": 333,
+  "sha256": "4d9dfed93277897690e938440f0e935012d5ade61a76d7cc90bcab208bb74e60",
+  "natural_key": [
+    "county_code",
+    "name"
+  ],
+  "notes": "Census (national-government administrative) sub-counties as enumerated in the 2019 census; not a Ministry of Interior gazette list, and later gazetted new sub-counties are not reflected. KNBS publishes no sub-county codes, so code is blank. 12 census special areas marked * in the source (forests / national parks, e.g. Mt. Kenya Forest, Aberdare National Park) are excluded. Validation: for every county the parsed sub-county totals (incl. special areas) sum exactly to the county total. Names as printed by KNBS, including its disambiguated forms (Samburu-Kwale, Kimilili-Bungoma)."
+}

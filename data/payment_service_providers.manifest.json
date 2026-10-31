@@ -1,0 +1,19 @@
+{
+  "key": "payment_service_providers",
+  "name": "CBK Authorised Payment Service Providers",
+  "version": "0.1.0",
+  "source": "Central Bank of Kenya - Directory of Authorized Payment Service Providers (PSPs) as at August 10, 2026",
+  "source_url": "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+  "other_sources": [
+    "https://www.centralbank.go.ke/national-payments-system/"
+  ],
+  "as_of": "2026-08-10",
+  "retrieved": "2026-11-01",
+  "row_count": 44,
+  "sha256": "8765239ae5fce2d09fa77650e1ccdda27df1c06962be6f6719a9599b61bb6493",
+  "natural_key": [
+    "category",
+    "name"
+  ],
+  "notes": "CBK does not label PSP categories in this directory; category was derived from CBK's 'Approved services' text, which is given in full in notes: 'To issue, process, store, send...' = e_money_issuer; 'To own, possess, operate, manage or control infrastructure...' = payment_system_operator; everything else = payment_service_provider. That includes merchant-platform PSPs, KAPS (pre-paid parking cards) and KENEX (SWIFT service bureau). The directory gives no licence numbers. Date first licensed is in notes. Card schemes such as Visa and Mastercard are not in this directory. Location = physical address as given."
+}

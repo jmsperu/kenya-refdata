@@ -1,0 +1,18 @@
+{
+  "key": "wards",
+  "name": "County Assembly Wards of Kenya (IEBC)",
+  "version": "0.1.0",
+  "source": "IEBC, Registered Voters per County Assembly Ward for the 2022 General Election",
+  "source_url": "https://www.iebc.or.ke/docs/rov_per_caw.pdf",
+  "other_sources": [
+    "https://www.iebc.or.ke/docs/rov_per_constituency.pdf"
+  ],
+  "as_of": "2022-06-23",
+  "retrieved": "2026-11-01",
+  "row_count": 1450,
+  "sha256": "0a23cd05a9429e5d19d461576e05049538fe1988a78076d621b8505b1fe93010",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "1,450 wards, codes 0001-1450, matches the expected total. Names Title-Cased from ALL CAPS source (two source names were mixed case: OLOlMASANI -> Ololmasani, EWUASO OoNKIDONG'I -> Ewuaso Oonkidong'i; NJABINI\\KIBURU keeps the backslash as printed). 20 random rows spot-checked against the PDF text. as_of = PDF creation date (no stated date)."
+}

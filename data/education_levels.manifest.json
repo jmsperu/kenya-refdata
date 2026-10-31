@@ -1,0 +1,18 @@
+{
+  "key": "education_levels",
+  "name": "Kenya National Qualifications Framework levels",
+  "version": "0.1.0",
+  "source": "Kenya Law - The Kenya National Qualifications Framework (General) Regulations, 2025 (L.N. 94 of 2025), First Schedule Part 4 (Minimum Entry Requirements table)",
+  "source_url": "https://new.kenyalaw.org/akn/ke/act/ln/2025/94/eng@2025-05-30",
+  "other_sources": [
+    "https://new.kenyalaw.org/akn/ke/act/2014/22/eng@2022-12-31"
+  ],
+  "as_of": "2025-05-30",
+  "retrieved": "2026-11-01",
+  "row_count": 10,
+  "sha256": "b0d909bf1f0ca3c306205a341e39114113f5ea1c6aee9ff91e9dabc365241d84",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "Reg. 7 sets KNQF levels one to ten. The 2025 Regulations revoke the KNQF Regulations 2018 (reg. 39). name = first qualification type listed for the level (verbatim, including the source's punctuation, e.g. level 7 'Bachelors' Degree or Professional or National Skills Certificate VI (NSC VI) Master Craft Person I'); notes = all qualification types for the level. In the source table some rows have an empty level cell; they were assigned to the level row above them (e.g. Higher National Diploma -> level 7; Post Graduate Diploma -> level 8). knqa.go.ke returned HTTP 500 at retrieval so KNQA's own publications could not be cross-checked."
+}

@@ -1,0 +1,343 @@
+category,name,licence_no,code,location,website,notes,active
+securities_exchange,The Nairobi Securities Exchange,,,"P.O. Box 43633-00100, Nairobi",https://www.nse.co.ke/,CMA list: Approved Institutions (Securities Exchange),1
+derivatives_exchange,NSE Derivatives Exchange,,,"P.O. Box 43633-00100, Nairobi",https://www.nse.co.ke/derivatives/,CMA list: Approved Institutions (Derivatives Exchange),1
+central_depository,Central Depository and Settlement Corporation Limited,,,"P.O. Box 3464-00100, Nairobi",,CMA list: Approved Institutions (Central Depository),1
+credit_rating_agency,Agusto and Company Limited,,,"P.O. Box 56136, Ikoyi Lagos Nigeria",https://www.agusto.co.ke/,CMA list: Approved Institutions (Credit Rating Agency),1
+credit_rating_agency,Metropol Corporation Limited,,,"P.O. Box 35331-00200, Nairobi",https://www.metropol.co.ke/,CMA list: Approved Institutions (Credit Rating Agency),1
+credit_rating_agency,Global Credit Company,,,"Lot 15 A3, 1st Floor, Cybercity, Ebène 72201,Mauritius",https://gcrratings.com/,CMA list: Approved Institutions (Credit Rating Agency),1
+credit_rating_agency,Care Ratings (Africa) Private Limited,,,"1st Floor, MTML Square 63 Cybercity, Ebene, Mauritius",https://www.careratingsafrica.com/,CMA list: Approved Institutions (Credit Rating Agency),1
+credit_rating_agency,A.M Best Europe – Rating Services Limited,,,"6th Floor, 12 Arthur Street,London EC 4R 9AB, United Kingdom",https://www.mgaa.co.uk/membership/membership-directory/a-m--best-europe---rating-services-limited/,CMA list: Approved Institutions (Credit Rating Agency),1
+otc_securities_exchange,EABX Public Company Limited,,,"P.O Box 13451-00800, Nairobi.",,CMA list: Approved Institutions (category shown truncated by CMA portal: 'Over The Counter Securities Exchange and Self-Regu'),1
+derivatives_broker,AIB-AXYS Africa Limited,119,,"P.O. Box 43676-00100, Nairobi",https://www.aib-axysafrica.com/,,1
+derivatives_broker,EGM Securities Limited (Trading as “FX Pesa”),120,,"P.O. Box 14747 – 00800, Westlands, Nairobi",https://www.fxpesa.com/,,1
+derivatives_broker,Faida Investment Bank Limited,121,,"P.O. Box 45236-00100, Nairobi",https://fib.co.ke/,,1
+derivatives_broker,Genghis Capital Limited,122,,"P.O. Box 9959-00100, Nairobi",https://www.genghis-capital.com/,,1
+derivatives_broker,Kingdom Securities Limited,123,,"P.O. Box 48231-00100, Nairobi",https://kingdomsecurities.co.ke/,,1
+derivatives_broker,SCFM Limited (Trading as “Scope Markets”),124,,"P.O. Box 40719-00200, Nairobi",https://www.scopemarkets.co.ke/,,1
+derivatives_broker,Standard Investment Bank Limited,125,,"P.O. Box 13714-00800, Nairobi",https://www.sib.co.ke/,,1
+derivatives_broker,Sterling Capital Limited,126,,"P.O. Box 45080-00100, Nairobi",https://sterlingib.com/,,1
+derivatives_broker,NCBA Investment Bank Limited,127,,"P.O. Box 44599-00100, Nairobi",,,1
+derivatives_broker,Dyer and Blair Investment Bank Limited,128,,"P.O. Box 45396-00100, Nairobi",https://www.dyerandblair.com/,,1
+derivatives_broker,SBG Securities Limited,129,,"P.O. Box 47198-00100, Nairobi",https://www.sbgsecurities.co.ke/sbgsecurities/securities,,1
+derivatives_broker,Kestrel Capital (East Africa) Limited,130,,"P.O. Box 40005-00100, Nairobi",https://www.kestrelcapital.com/,,1
+investment_bank,ABSA Securities Limited,002,,"P.O. Box 30120-00100, Nairobi",https://www.absabank.co.ke/personal/,,1
+investment_bank,Dyer and Blair Investment Bank Limited,004,,"P.O. Box 45396-00100, Nairobi",https://www.dyerandblair.com/,,1
+investment_bank,Equity Investment Bank Limited,005,,"P.O. Box 74454-00100, Nairobi",https://equitygroupholdings.com/ke/investor-relations/,,1
+investment_bank,Faida Investment Bank Limited,006,,"P.O. Box 45236-00100, Nairobi",https://fib.co.ke/,,1
+investment_bank,Genghis Capital Limited,007,,"P.O. Box 9959-00100, Nairobi",https://www.genghis-capital.com/,,1
+investment_bank,KCB Investment Bank Limited (formerly KCB Capital Limited),008,,"P.O. Box 48400-00100, Nairobi",https://ke.kcbgroup.com/for-you/investments,,1
+investment_bank,NCBA Investment Bank Limited,009,,"P.O. Box 44599-00100, Nairobi",,,1
+investment_bank,Renaissance Capital (Kenya) Limited,010,,"P.O. Box 40560-00100, Nairobi",https://www.rencap.com/,,1
+investment_bank,SBG Securities Limited,011,,"P.O. Box 47198-00100, Nairobi",https://www.sbgsecurities.co.ke/sbgsecurities/securities,,1
+investment_bank,Standard Investment Bank,012,,"P.O. Box 13714-00800, Nairobi",https://www.sib.co.ke/mansa-x/,,1
+investment_bank,Sterling Capital Limited,021,,"P.O. Box 45080-00100, Nairobi",https://sterlingib.com/,,1
+investment_bank,Dry Associates Limited (Trading as “Dry Associates Investment Bank”),114,,"P.O. Box 684-00606, Nairobi",https://www.dryassociates.com/about/,,1
+investment_bank,Salaam Investment Bank Kenya Limited,115,,"P.O. Box 14939-00100, Nairobi",https://salaaminvestments.com/,,1
+investment_bank,Gulfcap Investment Bank Limited,170,,"P.O. Box 43683-00100, Nairobi",https://gcib.africa/,,1
+investment_bank,Pergamon Investment Bank Limited,179,,"P.O Box 25749 – 00603, Nairobi",,,1
+investment_bank,Investcent Investment Bank Limited.,187,,"P.O. Box 19445-00200, 6th Floor, Muthangari Drive Westlands",https://www.investcent.co/,,1
+investment_bank,Capital A Investment Bank Limited (Formerly Securities Africa Kenya Limited),100,,P.O. Box 29726-00100,,,1
+investment_bank,Victoria Wealth Management Limited,241,,P.O Box 41114-00100 NAIROBI,https://www.victoriabank.co.ke/,,1
+investment_bank,Rock Investment Bank Limited,230,,"P.O. Box 23716-00100, GPO Nairobi",https://rib.co.ke/,,1
+investment_bank,Fintrust Securities Limited,258,,Parklands Road NAIROBI,https://www.fintrustsecurities.co.ke/,,1
+investment_bank,AIB-AXYS Africa Limited,260,,General Mathenge Road NAIROBI,https://www.aib-axysafrica.com/,,1
+investment_bank,Cinemark Investment Bank Limited,264,,P.O Box 66884- 00800 NAIROBI,http://www.cinemarkconsult.com/,,1
+investment_bank,Axys Investment Bank Limited,260,,P.O Box 43676-00100 NAIROBI,,,1
+stockbroker,ABC Capital,013,,"P.O. Box 34137-00100, Nairobi",https://www.abccapital.co.ke/,,1
+stockbroker,AIB-AXYS Africa Limited,141,,"P.O. Box 43676 -00100, Nairobi",https://www.aib-axysafrica.com/,,1
+stockbroker,Francis Drummond and Company Limited,016,,"P.O. Box 45465-00100, Nairobi",https://drummond.co.ke/,,1
+stockbroker,Kingdom Securities Limited,018,,"P.O. Box 48231-00100, Nairobi",https://kingdomsecurities.co.ke/,,1
+stockbroker,Omni Marche Securite (OMS) Africa Limited,020,,"P.O. Box 50338-00200, Nairobi",https://www.oldmutual.co.ke/,,1
+stockbroker,Suntra Investments Limited,022,,"P.O. Box 74016-00200, Nairobi",https://suntra.co.ke/,,1
+stockbroker,EFG Hermes Kenya Limited,105,,"P.O. Box 349-00623, Nairobi",https://www.efghermes.com/en/kenya,,1
+stockbroker,Kestrel Capital (East Africa) Limited,136,,"P.O. Box 40005-00100, Nairobi",https://www.kestrelcapital.com/,,1
+stockbroker,SPK Investment Services Limited,176,,"P.O. Box 23800-00100, Nairobi",,,1
+stockbroker,Green Margin Capital Limited,253,,P.O. Box 773-00517 NAIROBI,http://www.greenmargincapital.com,,1
+non_dealing_online_forex_broker,EGM Securities Limited (Trading as “FX Pesa”),107,,"P.O. Box 14747 – 00800, Westlands, Nairobi",https://www.fxpesa.com/,,1
+non_dealing_online_forex_broker,SCFM Limited (Trading as “Scope Markets”),123,,"P.O. Box 40719-00200, Nairobi",http://www.scopemarkets.co.ke,,1
+non_dealing_online_forex_broker,Pepperstone Markets Kenya Limited,128,,"P.O. Box 3085-00100, Nairobi",https://pepperstone.com/en-af/,,1
+non_dealing_online_forex_broker,Exinity Capital East Africa Limited,135,,"P.O. Box 50719-00200, Nairobi",https://group.exinity.com/exinity-group-receives-cma-license-from-kenya,,1
+non_dealing_online_forex_broker,HFM Investments Limited (Trading as “HF Markets”),155,,"P.O. Box30333-00100, Nairobi",https://www.hfm.com/ke/en/,,1
+non_dealing_online_forex_broker,Windsor Markets Kenya Limited,156,,P.O. Box 856 Sarit Centre,https://en.windsorbrokers.com/contact/,,1
+non_dealing_online_forex_broker,Exness KE Limited,162,,"P.O. Box 10643-00100, Nairobi",https://www.exness.ke/contacts/,,1
+non_dealing_online_forex_broker,Ingot Ke Limited,173,,"P.O. Box 111-00606, Nairobi",https://www.ingotbrokersafrica.com/,,1
+non_dealing_online_forex_broker,Admirals KE Limited,178,,"P.O. Box 39258-00623, Nairobi",https://admiralmarkets.com/,,1
+non_dealing_online_forex_broker,FP Markets Limited,193,,P.O. Box 5144-01002 Madaraka,https://www.fpmarkets.co.ke/,,1
+non_dealing_online_forex_broker,IC Markets (KE) Limited,199,,P.O. Box 41392-00100 Nairobi,,,1
+non_dealing_online_forex_broker,Anzo Capital Limited,219,,P.O Box 1043-00100 Nairobi,https://www.anzocapital.com/en,,1
+non_dealing_online_forex_broker,TPXMGLOBAL Kenya Limited,233,,P.O Box 39258-00623 Nairobi,,,1
+non_dealing_online_forex_broker,Ava Trade Kenya Limited,262,,P.O. Box 66217- 00800 NAIROBI,,,1
+online_forex_money_manager,Standard Investment Bank (Trading as “MANSA X”),116,,"P.O. Box 13714-00800, Nairobi",https://www.sib.co.ke/mansa-x/,,1
+online_forex_money_manager,Trade Sense Limited,160,,P.O. Box 1530-00606,https://www.tradesense.co.ke/,,1
+online_forex_money_manager,Store Poa Enterprise Limited,214,,P.O Box 3281-00621 Nairobi,https://www.spelmm.com/,,1
+authorised_securities_dealer,Standard Chartered (Kenya) Plc,109,,"P.O. Box 30003-00100, Nairobi",https://www.sc.com/ke/,,1
+authorised_securities_dealer,SBM Bank (Kenya) Limited,122,,"P.O. Box 34886-00100, Nairobi",https://www.sbmbank.co.ke/,,1
+authorised_securities_dealer,Private Wealth Capital Limited,167,,"P.O. Box 14283-00800, Nairobi",https://privatewealth.co.ke/,,1
+authorised_securities_dealer,Kingdom Securities Limited,192,,P.O. Box 48231 -00100 Nairobi,,,1
+authorised_securities_dealer,AKN Investment Limited,211,,P.O Box 584048-00200 Nairobi,,,1
+authorised_securities_dealer,Fintrust Securities Limited,227,,P.O. Box 12626-00400 Nairobi,,,1
+authorised_securities_dealer,Point Forty Investment Advisory Limited,235,,P.O Box 14826-00100 Nairobi,,,1
+authorised_securities_dealer,Cinemark Consult Limited,240,,P.O Box 8973-00100 NAIROBI,http://www.cinemarkconsult.com,,1
+fund_manager,Orient Asset Managers Limited,023,,"P.O. Box 34530-00100, Nairobi",https://www.orientasset.co.ke/,,1
+fund_manager,Amana Capital Limited,024,,"P.O. Box 9480-00100, Nairobi",https://www.amanacapital.co.ke/,,1
+fund_manager,Apollo Asset Management Company Limited,025,,"P.O. Box 30389-00100, Nairobi",https://www.apainsurance.org/product_investment.php,,1
+fund_manager,Britam Asset Managers (Kenya) Limited,027,,"P.O. Box30375-00100, Nairobi",https://ke.britam.com/,,1
+fund_manager,Metropolitan Canon Asset Managers Limited,028,,"P.O. Box 30216-00100, Nairobi",,,1
+fund_manager,Nabo Capital Limited,029,,"P.O. Box 10518-00100, Nairobi",https://www.nabocapital.com/,,1
+fund_manager,CIC Asset Managers Limited,030,,"P.O. Box 59485-00200, Nairobi",https://cic.co.ke/asset-management/,,1
+fund_manager,Co-op Trust Investment Services Limited,031,,"P.O. Box 48231-00100, Nairobi",https://www.co-opbank.co.ke/investing/co-op-trust-wealth-management-services/,,1
+fund_manager,FCB Capital Limited,032,,"P.O. Box 26219-00100, Nairobi",,,1
+fund_manager,Fusion Investment Management Limited,033,,"P.O. Box 47583-00100, Nairobi",https://www.fusioninvestafrica.com/,,1
+fund_manager,GenAfrica Asset Managers Limited,034,,"P.O. Box79217-00100, Nairobi",https://genafrica.com/,,1
+fund_manager,ICEA Asset Lion Asset Management Limited,035,,"P.O. Box46143-00100, Nairobi",https://ilamfahariireit.com/icea-lion-asset-management-ltd,,1
+fund_manager,Madison Investment Managers Limited,037,,"P.O. Box 20092-00100, Nairobi",https://www.madison.co.ke/investmentmanagers/,,1
+fund_manager,Old Mutual Investment Group,038,,P.O. Box 11589-00400. Nairobi,https://www.oldmutual.co.ke/,,1
+fund_manager,Sanlamallianz Investments Limited,040,,"P.O. Box 67262-00100, Nairobi",http://www.sanlam.co.za/investmentseastafrica/Pages/default.aspx,,1
+fund_manager,Standard Chartered Investment Services Limited,042,,"P.O. Box 30003-00100, Nairobi",https://www.sc.com/ke/investments/,,1
+fund_manager,Zimele Asset Management Company Limited,045,,"P.O. Box76528-00508, Nairobi",https://www.zimele.co.ke/,,1
+fund_manager,KCB Asset Management Limited (formerly Natbank Trustee and Investment Services Limited),087,,"P.O. Box 72866-00200, Nairobi",,,1
+fund_manager,Cytonn Asset Managers Limited,108,,"P.O. Box 20295-00200, Nairobi",https://cytonn.com/solutions/asset-managers,,1
+fund_manager,Altree Capital Kenya Limited,110,,"P.O. Box 2607-00200, Nairobi",https://altreecapital.com/altree-kenya-office.html,,1
+fund_manager,Jubilee Financial Services Limited,119,,"P.O. Box 30367-00100, Nairobi",https://jubileeinsurance.com/ke/asset-management/,,1
+fund_manager,ABSA Asset Management Limited,129,,"P.O. Box 30120-00200, Nairobi",https://www.absabank.co.ke/corporate-and-investment/absa-asset-management/,,1
+fund_manager,African Diaspora Asset Managers Limited,131,,"P.O. Box 1838 City Square, Nairobi",https://www.adamcapital.co.ke/,,1
+fund_manager,CFS Asset Management Limited,134,,"P.O. Box 62268-00200, Nairobi",https://ke.linkedin.com/company/cfs-asset-management-limited-kenya,,1
+fund_manager,I&M Capital Limited,145,,"P.O. Box 30328-00100, Nairobi",https://www.imbankgroup.com/ke/investments/im-capital/,,1
+fund_manager,Globetec Asset Managers Limited,154,,"P.O. Box 19018-00100, Nairobi",,,1
+fund_manager,African Alliance Kenya Asset Management Limited,165,,P.O. Box,https://www.africanalliance.com/,,1
+fund_manager,CPF Asset Managers,164,,"P.O. Box 28938-00200, Nairobi",https://www.cpfaminvest.com,,1
+fund_manager,Kuza Asset Management Limited,161,,"P.O. Box 4611-00100, Nairobi",https://kuza.africa/,,1
+fund_manager,Ndovu Wealth Limited,169,,P.O. Box 48015-00100 Nairobi,https://ndovu.co/,,1
+fund_manager,Mayfair Asset Managers Limited,172,,"P.O. Box 45616-00100, GPO Nairobi",http://www.mayfairassetmanagement.com/,,1
+fund_manager,Etica Capital Limited,171,,"P.O. Box 3245 Village Market, Nairobi",https://eticacap.com/,,1
+fund_manager,Star Capital Management Limited,166,,"P.O. Box 80234, Mombasa",https://www.starcapitalmanagement.net/,,1
+fund_manager,Lofty-Corban Investments Limited,180,,P.O. Box 37030-00200 Nairobi,,,1
+fund_manager,ALA Capital Limited,185,,P.O Box 51462-00100 Nairobi,,,1
+fund_manager,Spearhead Africa Asset Management Limited,186,,P.O Box 57567 -00200,,,1
+fund_manager,MKM Capital Limited,188,,P.O Box 22715-00505 Nairobi,,,1
+fund_manager,Arvocap Asset Managers Limited,190,,P.O. Box 815 -00300 Nairobi,,,1
+fund_manager,Myxeno Investment Management Limited,191,,P. O Box 856 - 00606 Nairobi,http://www.myxeno.com,,1
+fund_manager,GTXN Investments Limited,200,,"10th Floor, 623 Wood Avenue, Kilimani, NAIROBI",,,1
+fund_manager,VCG Asset Management Limited,196,,"P.O. Box 14747, Westlands",,,1
+fund_manager,The Kenyan Alliance Asset Management Company Limited,220,,"12th Floor, Dunhill Towers, Westlands, P.O Box 30170 -00100, Nairobi",,,1
+fund_manager,Tradiam Investments Services Limited,221,,"PO Box 20375 GPO, Nairobi",,,1
+fund_manager,Swala Capital Limited,223,,"P.O. Box 38588-00200, Nairobi",,,1
+fund_manager,Meridian Asset Management Limited,226,,"P.O. Box 11155-00400, Nairobi",,,1
+fund_manager,Kenya Climate Ventures Limited,232,,"P.O Box 49162-00100, Nairobi",,,1
+fund_manager,EDC Asset Management (Kenya) Limited,234,,"P.O Box 49584-00100, Nairobi",,,1
+fund_manager,Mema Asset Management Limited,249,,P.O Box 101650-00101 NAIROBI,,,1
+fund_manager,Karsis Asset Managers Limited,254,,P.O Box 28527-00100 NAIROBI,,,1
+fund_manager,ADAR Asset Management Limited,268,,P.O Box 14534- 00100 NAIROBI,,,1
+fund_manager,Entrust Advisory Limited,269,,P.O Box 1382-00618 NAIROBI,,,1
+fund_manager,Everstrong Asset Management Limited,270,,P.O Box 1862-00200 NAIROBI,,,1
+fund_manager,Hass Crest Capital Limited,278,,P.O BOX 76337-00508 NAIROBI,,,1
+fund_manager,Tradiam Asset Managers Limited,221,,P.O. BOX 20375 GPO NAIROBI,,,1
+investment_adviser,Bora Capital Limited,046,,"P.O. Box 26718-00200, Nairobi",https://boracap.com/,,1
+investment_adviser,Deloitte Financial Advisory Limited,051,,"P.O. Box 40092-00100, Nairobi",https://www.deloitte.com/an/en/services/financial-advisory.html,,1
+investment_adviser,Lifestyle Management Limited,054,,"P.O. Box 1342-00606, Nairobi",https://lsmplan.com/,,1
+investment_adviser,Price Water house Coopers Associates,056,,"P.O. Box 43963-00100, Nairobi",https://www.pwc.com/ke/en.html,,1
+investment_adviser,The Profin Group Limited,059,,"P.O. Box 9980-00100, Nairobi",https://theprofingroup.com/,,1
+investment_adviser,Liaison Financial Services Limited,095,,"P.O. Box 1896-00606, Nairobi",https://www.liaisongroup.net/,,1
+investment_adviser,Ayesfield (Kenya) Limited,104,,"P.O. Box 1380-00621, Nairobi",,,1
+investment_adviser,Synesis Capital Limited,112,,"P.O. Box 75282-00200, Nairobi",https://www.synesis.co.ke/,,1
+investment_adviser,AFG Wealth Kenya Limited,124,,"P.O. Box 764-00606, Nairobi",https://www.afg-wealth.com/,,1
+investment_adviser,Riscura Solutions (Kenya) Limited,146,,"P.O. Box 73248-00200, Nairobi",https://riscura.com/,,1
+investment_adviser,Private Wealth Capital Limited,147,,"P.O. Box 14283-00800, Nairobi",https://privatewealth.co.ke/,,1
+investment_adviser,Waanzilishi Capital Limited,148,,"P.O. Box 48015-00100, Nairobi",https://ndovu.co/,,1
+investment_adviser,Salus Wealth Management Limited,174,,"P.O. Box 66795-00800, Nairobi",http://www.salus-wealth.com,,1
+investment_adviser,Vedman Capital Limited,177,,"P.O. Box 76156-00508, Nairobi",https://vedmangroup.com/,,1
+investment_adviser,Virtual Capital International Limited,125,,"P.O. Box 6th Floor, Prosperity House, Westlands Road Nairobi",,,1
+investment_adviser,Waugh McDonald Wealth Management Limited,103,,"P.O. Box 1896-00606, Nairobi",https://www.waughmcdonald.co.ke/,,1
+investment_adviser,Tim Walsh Advisory Services,201,,"10th Floor, Kofisi Square Centre 104 Riverside Drive, Westlands NAIROBI",,,1
+investment_adviser,Mirova Sunfunder East Africa Limited,204,,P.O. Box 59067-00100 NAIROBI,,,1
+investment_adviser,Prime limited,194,,P. O Box 43825-00100,,,1
+investment_adviser,Entrust Advisory Limited,213,,P.O Box 1382-00618 Nairobi,,,1
+investment_adviser,CPF Capital and Advisory Limited,217,,P.O Box 28938-00200 Nairobi,,,1
+investment_adviser,Moran Capital Management Limited,218,,P.O Box 2223-00621 Nairobi,,,1
+investment_adviser,Legatum Capital Advisory Limited,229,,P.O. Box 11203-00100 Nairobi,,,1
+investment_adviser,SilverHouse Capital Limited,237,,P.O. Box 102756-00101 Nairobi,,,1
+investment_adviser,Jalia Advisers & Intermediaries Limited,239,,P.O. Box 00618-1431 Nairobi,,,1
+investment_adviser,Horizon Africa Capital Limited,247,,P.O Box 103646-00101 NAIROBI,https://www.horizonafrica.com/,,1
+investment_adviser,"Zamara Actuaries, Administrators & Consultants Limited",251,,P.O. Box 52439-00200 NAIROBI,http://www.zamaragroup.com,,1
+investment_adviser,Arion Capital Limited,252,,P.O. Box 70612-00400 NAIROBI,,,1
+investment_adviser,Vepris Cap Limited,255,,P.O. Box 9533 – 00200 NAIROBI,,,1
+investment_adviser,Dealogic Africa Limited,259,,"Muthithi Road, Westlands NAIROBI",https://dealogicafrica.com/,,1
+investment_adviser,Finaltus Limited,271,,P.O Box 52502-00200 NAIROBI,,,1
+investment_adviser,Livonna Advisory Partners Ltd,277,,P.O BOX 75318-00200 NAIROBI,,,1
+authorised_depository,African Banking Corporation Limited,062,,"P.O. Box 46452-00100,Nairobi",https://www.abcthebank.com/,,1
+authorised_depository,Bank of Africa Kenya Limited,063,,"P.O. Box 69562-00400,Nairobi",https://boakenya.com/,,1
+authorised_depository,Absa Kenya Plc,064,,"P.O. Box 30120-00100,Nairobi",https://www.absabank.co.ke/personal/,,1
+authorised_depository,Stanbic Bank Kenya Limited,065,,"P.O. Box 30550-00100,Nairobi",https://www.stanbicbank.co.ke/,,1
+authorised_depository,Co-operative Bank of Kenya Limited,067,,"P.O. Box 48213-00100,Nairobi",https://www.co-opbank.co.ke/,,1
+authorised_depository,Equity Bank Limited,068,,"P.O. Box 75104-00200,Nairobi",https://equitygroupholdings.com/ke/,,1
+authorised_depository,I&M Bank Limited,069,,"P.O. Box 30238-00100,Nairobi",https://www.imbankgroup.com/ke/,,1
+authorised_depository,Kenya Commercial Bank Limited,070,,"P.O. Box 30644-00100,Nairobi",https://ke.kcbgroup.com/ways-of-banking/branches,,1
+authorised_depository,National Bank of Kenya Limited,071,,"P.O. Box 72866-00200,Nairobi",https://www.nationalbank.co.ke/,,1
+authorised_depository,Prime Bank Limited,073,,"P.O. Box 43825-00100,Nairobi",https://www.primebank.co.ke/,,1
+authorised_depository,Standard Chartered Bank (Kenya) Plc,074,,"P.O. Box 30003-00100,Nairobi",https://www.sc.com/ke/,,1
+authorised_depository,Transnational Bank Limited,075,,"P.O. Box 34353-00100,Nairobi",,,1
+authorised_depository,HFC Limited,113,,"P.O. Box 30088-00100,Nairobi",https://www.hfgroup.co.ke/,,1
+authorised_depository,Gulf African Bank Limited,117,,"P.O. Box 43686-00100,Nairobi",https://gulfafricanbank.com/,,1
+authorised_depository,Credit Bank Limited,120,,"P.O. Box 61064-00100,Nairobi",https://creditbank.co.ke/,,1
+authorised_depository,SBM Bank (Kenya) Limited,121,,"P.O. Box 34866-00100,Nairobi",https://www.sbmbank.co.ke/,,1
+authorised_depository,NCBA Bank Kenya Plc,126,,"P.O. Box 44599-00100,Nairobi",https://ke.ncbagroup.com/,,1
+authorised_depository,Family Bank Limited,144,,"P.O. Box 74145-00200,Nairobi",https://familybank.co.ke/,,1
+authorised_depository,Ecobank Kenya Limited,149,,"P.O. Box 49584-00100,Nairobi",https://ecobank.com/ke/personal-banking/countries,,1
+authorised_depository,Sidian Bank Limited,150,,"P.O. Box 25363-00603,Nairobi",https://sidianbank.co.ke/,,1
+authorised_depository,Diamond Trust Bank Kenya Limited,175,,"P.O. Box 617113-00200,Nairobi",https://dtbk.dtbafrica.com/,,1
+reit_manager,Nabo Capital Limited,076,,"P.O. Box 10518-00100,Nairobi",https://www.nabocapital.com/,,1
+reit_manager,CIC Asset Management Limited,080,,"P.O. Box 59485-00200,Nairobi",https://cic.co.ke/asset-management-2/,,1
+reit_manager,Fusion Investment Management Limited,081,,"P.O. Box 47538-00100,Nairobi",https://www.fusioninvestafrica.com/,,1
+reit_manager,ICEA Lion Asset Management Limited,092,,"P.O. Box 46143-00100,Nairobi",https://ilamfahariireit.com/icea-lion-asset-management-ltd,,1
+reit_manager,Sterling REIT Asset Management Limited,097,,"P.O. Box 45080-00100,Nairobi",https://sterlingreit.co.ke/,,1
+reit_manager,H.F Development and Investment Limited,098,,"P.O. Box 30088-00100,Nairobi",https://www.hfgroup.co.ke/about-us,,1
+reit_manager,Britam Asset Managers Limited,106,,"P.O. Box 30375-00100,Nairobi",https://www.britam.com/,,1
+reit_manager,Cytonn Asset Managers Limited,118,,"P.O. Box 20295-00200,Nairobi",https://cytonn.com/solutions/asset-managers,,1
+reit_manager,Acorn Investment Management Limited,113,,"P.O. Box 13759-00100,Nairobi",https://acornholdingsafrica.com/,,1
+reit_manager,Mi Vida Homes Limited,206,,P.O Box 43233-00100 NAIROBI,,,1
+reit_manager,ALA Capital Limited,195,,P.O Box 51462-00100,,,1
+reit_manager,Future Construkt Investment Managers Limited,212,,P.O Box 1858-00606 Nairobi,,,1
+reit_manager,CPF Capital and Advisory Limited,216,,P.O Box 28938-00200 Nairobi,,,1
+reit_manager,ALP REIT Management Limited,242,,P.O Box 1925-00502 Nairobi,https://africawarehouses.com,,1
+coffee_broker,Meru County Coffee Marketing Agency Limited,151,,"P.O. Box 2307-60200, Meru",,,1
+coffee_broker,Kipkelion Brokerage Company Limited,152,,"P.O. Box 8-20209, Tennan",,,1
+coffee_broker,Muran’ga County Coffee Dealers Company Limited,153,,"P.O. Box 14-10200,Muran’ga",,,1
+coffee_broker,United Eastern Kenya Coffee Marketing Agency,158,,"P.O. Box 83-90100,Machakos",,,1
+coffee_broker,Mt. Elgon Coffee Marketing Agency,157,,"P.O. Box 69-50202, Nairobi",,,1
+coffee_broker,Embu Coffee Farmers Marketing Agency Limited,159,,"P.O. Box 21-60100, Nairobi",,,1
+coffee_broker,Kinya Coffee Marketing Agency Limited,181,,"P.O. Box 35-40200, Kisii",,,1
+coffee_broker,Alliance Berries Limited,182,,"P.O. Box 554-00232, Ruiru",,,1
+coffee_broker,Kiambu Coffee Marketing Company,183,,PO Box 97-00900 Kiambu,,,1
+coffee_broker,Bungoma Union Marketing Agency Limited,184,,P.O BOX 47-50200 Bungoma,,,1
+coffee_broker,New Kenya Planters Co-operative Union PLC,,,"P.O Box 59638-00200, Wakulima House,5th Floor Haile Selassie Avenue",,,1
+coffee_broker,KCCE Marketing Agency Limited,189,,P. O Box 54980- 00200 Nairobi,,,1
+coffee_broker,Baringo Kawa Brokerage Company Limited,,,"P. O Box 186- 30400, Baringo",,,1
+coffee_broker,Meru South Coffee Marketing Company Limited,208,,"P.O Box 40-60400, Chuka",,,1
+coffee_broker,Kirinyaga Slopes Coffee Brokerage Company Limited,202,,P.O. Box 50 Kerugoya,,,1
+coffee_broker,Nandi Coffee Co-operative Union Coffee Brokers Limited,205,,P.O Box 259-30300 Kapsabet,,,1
+coffee_broker,Minnesota Coffee Marketers Limited,209,,P.O Box 103987 00100 Nairobi,,,1
+coffee_broker,Coffee Estates Bourgeosie Brokers Agency Limited,210,,P.O Box 2601-00200 Nairobi,,,1
+coffee_broker,Wareng Coffee Marketing Agency Limited,243,,P.O. Box 44-30100 Eldoret,,,1
+coffee_broker,Ahadi Coffee Limited,266,,P.O Box 52437- 00100 THIKA,https://www.ahadicoffee.com/,,1
+coffee_broker,Caffora Coffee Company Limited,267,,P.O. Box 38-20209 KERICHO,https://cofferacoffee.com/,,1
+coffee_broker,Saffron Coffee Marketers Limited,274,,P.O. Box 33683 – 00600 NAIROBI,,,1
+reit_trustee,Housing Finance Company (Kenya) Limited,088,,"P.O. Box 30088-00100,Nairobi",https://www.hfgroup.co.ke/,,1
+reit_trustee,Co-operative Bank of Kenya Limited,089,,"P.O. Box 48231-00100,Nairobi",https://www.co-opbank.co.ke/,,1
+reit_trustee,Kenya Commercial Bank Limited,090,,"P.O. Box 30664-00100,Nairobi",https://ke.kcbgroup.com/,,1
+reit_trustee,NCBA Bank Kenya PLC,197,,"P.O. Box 30437-00100, Nairobi",,,1
+reit_trustee,Istithmar Lulu Makmoon Limited,273,,P.O. Box 4167-00100 NAIROBI,,,1
+reit_trustee,Co-op Bank Kenya Limited,089,,P.O Box 48231-00100 NAIROBI,,,1
+authorised_reit,Acorn Development Real Estate Investment Trust (Acorn D-REIT),137,,"Acorn House, 97 James Gichuru Road, Lavington,Nairobi",https://acornholdingsafrica.com/integrated-real-estate/,,1
+authorised_reit,Acorn Income Real Estate Investment Trust (Acorn IREIT),138,,"Acorn House, 97 James Gichuru Road, Lavington,Nairobi",https://acornholdingsafrica.com/integrated-real-estate/,,1
+authorised_reit,ILAM Fahari I-REIT,139,,"P.O. Box 46143-00100,Nairobi",https://ilamfahariireit.com/,,1
+authorised_reit,LAPTRUST Imara Income Real Estate Investment Trust (LAPTRUST IMARA I-REIT),175,,"7th Floor, CPF House Haile Selassie Avenue,Nairobi",https://laptrustimaraireit.co.ke/,,1
+authorised_reit,ALP Industrial Real Estate Investment Trust,8/2025,,,https://africawarehouses.com/,,1
+authorised_reit,TRIFIC Green USD Income Real Estate Investment Trust,9/2025,,,https://trific.co.ke/,,1
+collective_investment_scheme,African Alliance Kenya Unit Trust Scheme,,,,https://www.africanalliance.com/copy-of-about-asset-management,Funds: African Alliance Kenya Money Market Fund; African Alliance Kenya Fixed Income Fund; African Alliance Kenya Balanced Fund; African Alliance Kenya Equity Fund; African Alliance Kenya Enhanced Yield Fund,1
+collective_investment_scheme,British-American Unit Trust Scheme,,,,https://ke.britam.com/save-and-invest/personal/invest/unit-trust-funds,Funds: Britam Money Market Fund; Britam Income Fund; Britam Balanced Fund; Britam Equity Fund; Britam Special fixed Income Fund; Britam Money Market fund (USD); Britam Bond Plus Fund; Britam USD Fixed Income Fund; Britam Balanced Fund; Britam Equity Fund; Britam Multi-Asset Special Fund; Britam Enhanced Global Equities Special Fund,1
+collective_investment_scheme,NCBA Unit Trust Funds,,,,https://investment-bank.ncbagroup.com/wealth-management/collective-investment-schemes/ncba-money-market-fund/,Funds: NCBA Fixed Income Fund; NCBA Equity Fund; NCBA Dollar Fixed Income Fund; NCBA Fixed Income Basket Note (KES Fund); NCBA Fixed Income Basket Note (USD) Fund; NCBA Global Special Equity Fund; NCBA Global Special Fixed Income Fund; NCBA Money Market Fund (KES); NCBA Money Market Fund (USD),1
+collective_investment_scheme,Zimele Unit Trust Scheme,,,,https://www.zimele.co.ke/savings-plan/,Funds: Zimele USD Money Market Fund; Zimele USD Fixed Income Fund; Zimele Fixed Income Fund with sub-classes; Zimele Education Plan; Zimele Saving Plan,1
+collective_investment_scheme,ICEA Unit Trust Scheme,,,,https://www.sc.com/ke/investments/,Funds: ICEA Money Market Fund; ICEA Equity Fund; ICEA Balanced Fund; ICEA Bond Fund; ICEA Fixed Income Fund (USD),1
+collective_investment_scheme,CIC Unit Trust Scheme,,,,https://cic.co.ke/,Funds: CIC Money Market Fund; CIC Balanced Fund; CIC Fixed Income Fund; CIC Equity Fund; CIC Wealth Fund; CIC Dollar Fund; CIC Global Special Fund,1
+collective_investment_scheme,Madison Unit Trust Fund,,,,https://www.madison.co.ke/investmentmanagers/,Funds: Madison Money Market Fund; Madison Fixed Income Fund; Madison Wealth Fund,1
+collective_investment_scheme,Dyer and Blair Unit Trust Scheme,,,,https://www.dyerandblair.com/,Funds: Dyer & Blair Fixed Income Fund (USD); Dyer & Blair Special Global Strategies Fund (KES); Dyer & Blair Special Global Strategies Fund (USD),1
+collective_investment_scheme,Amana Unit Trust Funds Scheme,,,,https://amanacapital.co.ke/about,Funds: Amana Money Market Fund; Amana Balanced Fund; Amana Equity Fund,1
+collective_investment_scheme,Diaspora Unit Trust Scheme,,,,https://diasporainvestmentclub.com/,Funds: Diaspora Money Market Fund; Diaspora Bond Fund; Diaspora Equity Fund,1
+collective_investment_scheme,First Ethical Opportunities Fund,,,,,,1
+collective_investment_scheme,Genghis Unit Trust Funds,,,,https://genghis-capital.com/,Funds: GenCap Hazina Fund (Bond Fund); GenCap Eneza Fund (Diversified Fund); GenCap Hela Fund (Money Market Fund); GenCap Iman Fund (Shariah Compliant Fund); GenCap Hisa Fund (Equity Fund); GenCap Hela Imara Fund (Money Market Fund); Gencap Eneza Imara Fund; Gencap Hisa Imara Fund; Gencap Iman Imara Fund; Gencap Fixed Income Fund,1
+collective_investment_scheme,Mali Money Market Fund,,,,https://www.safaricom.co.ke/media-center-landing/terms-and-conditions/terms-and-conditions-for-mali-investment-product,,1
+collective_investment_scheme,Genghis Specialized Funds,,,,https://www.genghis-capital.com/,Funds: Gencap NSE25 Index Tracker; Gencap Financial Services Fund,1
+collective_investment_scheme,Sanlam Unit Trust Scheme,4/2023,,,http://www.sanlam.co.za/investmentseastafrica/unittrusts/Pages/default.aspx,Funds: Sanlam Money Market Fund; Sanlam Balanced Fund; Sanlam Fixed Income Fund; Sanlam USD Fixed Income Fund; Sanlam Special GBP Fixed Income Fund; Sanlam Special Fund(KES),1
+collective_investment_scheme,Nabo Africa Funds,,,,https://www.nabocapital.com/,Funds: Nabo Africa Money Market Fund; Nabo Africa Balanced Fund; Nabo Africa Fixed Income Fund; Nabo Africa Equity Fund; Nabo Capital Money Market Fund (USD); Nabo Ubuntu Multi Asset Strategy Special Fund( Formerly Nabo Balanced Fund USD),1
+collective_investment_scheme,Old Mutual Unit Trust Scheme,,,,https://www.oldmutual.co.ke/personal/save-and-invest/unit-trusts,Funds: Old Mutual Equity Fund; Old Mutual Money Market Fund; Old Mutual Balanced Fund; Old Mutual East Africa Fund; Old Mutual Bond Fund; Old Mutual Faulu Money Market Fund; Old Mutual Dollar Money Market Fund; Old Mutual Special Fixed Income Fund,1
+collective_investment_scheme,Equity Investment Bank Collective Investment Scheme,,,,https://equitygroupholdings.com/ke/investor-relations/eib,Funds: Equity Investment Bank Money Market Fund; Equity Investment Bank Balanced Fund,1
+collective_investment_scheme,Dry Associates Unit Trust Scheme,,,,https://www.dryassociates.com/,Funds: Dry Associates Money Market Fund (Kenya Shillings); Dry Associates Money Market Fund (US Dollars); Dry Associates Special High Yield Fund Formerly Dry Associates Balanced Fund (KES); Dry Associate Small and Medium Enterprise Impact Debt Fund; Dry Associates Euro Special Fixed Income Fund; Dry Associates Sterling Special Fixed Income Fund,1
+collective_investment_scheme,Co-op Trust Fund,,,,https://www.co-opbank.co.ke/investing/co-op-trust-wealth-management-services/,Funds: Co-op Balanced Fund; Co-op Equity Fund; Co-op Bond Fund; Co-op Money Market Fund; Co-op Fixed Income Gratuity Fund,1
+collective_investment_scheme,Apollo Unit Trust Scheme,,,,https://www.apainsurance.org/product_investment.php,Funds: Apollo Money Market Fund; Apollo Balanced Fund; Apollo Aggressive Growth Fund; Apollo Equity Fund; Apollo East Africa Fund; Apollo Bond Fund,1
+collective_investment_scheme,Cytonn Unit Trust Scheme,,,,https://cytonn.com/topicals/unit-trust-funds-5,Funds: Cytonn Money Market Fund; Cytonn Balanced Fund; Cytonn Equity Fund; Cytonn Africa Financial Services Fund; Cytonn Money Market Fund (USD); Cytonn High Yield Fund,1
+collective_investment_scheme,Orient Umbrella Collective Investment Scheme (formerly Alphafrica Umbrella Fund),,,,https://www.orientlife.co.ke/,Funds: Orient Hifadhi Fixed Income Fund (formerly Alphafrica Hifadhi Fixed Income Fund); Orient Kasha Money Market Fund (formerly Alphafrica Kasha Money Market Fund); Orient Dollar Money Market Fund,1
+collective_investment_scheme,Wanafunzi Investment Unit Trust Fund,,,,,,1
+collective_investment_scheme,Absa Unit Trust Funds,,,,https://www.absainvestmentmanagement.co.za/wealth-and-investment-management/personal/investment-products/absa-unit-trusts/,Funds: Absa Balanced Fund; Absa Fixed Income Fund; Absa Bond Fund; Absa Dollar Money Market Fund; Absa USD Money Market Fund; Absa Equity Fund; Absa Shilling Money Market Fund; Absa Global Multi-Asset Special Fund (USD); Absa Global Multi-Asset Special Fund (KES),1
+collective_investment_scheme,Jaza Unit Trust Fund,,,,https://adamcapital.co.ke/,Funds: Jaza Premier Money Market Fund,1
+collective_investment_scheme,Masaru Unit Trust Scheme,,,,https://www.synesis.co.ke/,Funds: Masaru Wealth Management Fund; Masaru Money Market Fund,1
+collective_investment_scheme,ADAM Unit Trust Scheme,,,,https://adamcapital.co.ke/,Funds: ADAM Balanced Fund; ADAM Equities Fund; ADAM Fixed Income Fund; ADAM Money Market Fund,1
+collective_investment_scheme,KCB Unit Trust Scheme (formerly Natbank Unit Trust Scheme),,,,https://ke.kcbgroup.com/for-you/investments,Funds: KCB Money Market Fund (Kes) (formerly Natbank Money Market Fund); KCB Fixed Income Fund (formerly Natbank Fixed Income Fund); KCB Balanced Fund (formerly Natbank Balanced Fund); KCB Equity Fund (formerly Natbank Equity Fund); KCB Money Market Fund (USD) (formerly Natbank Money Market Fund (USD),1
+collective_investment_scheme,GenAfrica Unit Trust Scheme,,,,https://genafrica.com/,Funds: GenAfrica Money Market Fund; GenAfrica Equity Fund; GenAfrica Fixed Income Fund,1
+collective_investment_scheme,Amaka Unit Trust (Umbrella) Scheme,,,,https://ke.amakafund.com/,Funds: Amaka HOSP Fixed Income Fund; Amaka Qualified Investor Tenant Purchase Scheme Fund,1
+collective_investment_scheme,Jubilee Unit Trust Collective Investment Scheme,,,,https://jubileeinsurance.com/ke/,Funds: Jubilee Balanced Fund; Jubilee Equity Fund; Jubilee Fixed Income KES) Fund; Jubilee Fixed Income (USD) Fund; Jubilee Money Market Fund; Jubilee Money Market Fund(KES); Jubilee Money Market Fund(USD); Jubilee Enhanced Fixed Income Special Fund,1
+collective_investment_scheme,Enwealth Capital Unit Trust Scheme,,,,https://enwealth.co.ke/,Funds: Enwealth Balanced Fund; Enwealth Equity Fund; Enwealth Money Market Fund; Enwealth Dollar Money Market Fund; Enwealth Fixed Income Fund; Enwealth Impact Debt Fund - Alternative Investment Fund,1
+collective_investment_scheme,Kuza Asset Management Unit Trust Scheme,,,,https://kuza.africa/,Funds: Kuza Fixed Income Fund; Kuza Money Market Fund (KES); Kuza Money Market Fund (USD); Kuza Momentum Fund; Kuza Shariah Momentum Fund,1
+collective_investment_scheme,Etica Unit Trust Funds,,,,https://eticacap.com/,Funds: Etica Money Market Fund; Etica Money Market Fund(USD); Etica Fixed Income Fund; Etica Fixed Income Fund(USD); Etica Shariah Fund; Etica Shariah Fund (USD); Etica Wealth Fund; Etica Wealth Fund(USD); Etica Special Multi Asset Special Fund,1
+collective_investment_scheme,Lofty Corban Unit Trust Scheme,,,,,Funds: Lofty Corban Equity Fund; Lofty Corban Money Market Fund (KES); Lofty Corban Money Market Fund (USD); Lofty Corban Bond Fund (USD); Lofty Corban Bond Fund(KES); Lofty-Corban Private Debt Special Fund; Loft-Corban Global Asset Special Fund; Lofty-Corban special Money market fund,1
+collective_investment_scheme,Standard Investment Trust Funds,,,,,Funds: Standard Investment Equity Growth Fund; Standard Investment Fixed Income Fund; Standard Investment Balanced Fund; Mansa X Special Fund (KES); Mansa X Special Fund (USD); Mansa X Shariah Special Fund (KES); Mansa X Shariah Special Fund (USD),1
+collective_investment_scheme,Faida Unit Trust Funds,,,,,Funds: Hazina Bond Fund; Angaza Money Market Fund; Oak Multi Asset Special Fund formerly Kua Multi Asset Special Fund; Oak Multi Assets Special USD Fund,1
+collective_investment_scheme,Taifa Unit Trust Funds,,,,,Funds: Taifa Money Market Fund (KES); Taifa Money Market Fund (USD),1
+collective_investment_scheme,Stanbic Unit Trust Funds,,,,,Funds: Stanbic Money Market Fund; Stanbic Fixed Income Fund; Stanbic Fixed Income Fund(USD); Stanbic Balanced Fund; Stanbic Equity Fund,1
+collective_investment_scheme,Spearhead Africa Infrastructure (Special) Fund,,,,,Funds: Spearhead Africa Infrastructure (Special) Fund,1
+collective_investment_scheme,Rencap Unit Trust Scheme,,,,,Funds: Rencap Money Market Fund(KES); Rencap Money Market Fund(USD); Rencap Balanced Fund(KES); Rencap Fixed Income Fund(KES); Rencap Fixed Income Fund(USD),1
+collective_investment_scheme,Mayfair umbrella Collective investment scheme,,,,,Funds: Mayfair Money Market Fund; Mayfair Fixed Income Fund; Mayfair Balanced Fund; Mayfair Equity Fund,1
+collective_investment_scheme,Investcent Partners Trust Fund,,,,,Funds: Investcent Multi Asset Special Fund(KES); Investcent Multi Asset Special Fund(USD); Investcent Shariah Multi Asset Special Fund (KES); Investcent Shariah Multi Asset Special Fund (USD); Investcent Green Special Fund (KES); Investcent Green Special Fund (USD); Investcent Money Market Fund (KES); Investcent Money Market Fund (USD),1
+collective_investment_scheme,Investcent Alternative Investment Fund,,,,,Funds: Investcent Hedge Fund (KES); Investcent Hedge Fund (USD),1
+collective_investment_scheme,ICEA LION Collective Investment Scheme,,,,,Funds: ICEA LION Money Market Fund; ICEA LION Equity Fund; ICEA LION Balanced Fund; ICEA LION Bond Fund; ICEA LION USD Fixed Income Fund; ICEA Fixed Income Fund KES; ICEA LION Multi Strategy Bond Fund - Alternative; ICEA LION Multi Strategy Bond Fund - Alternative Investment Fund,1
+collective_investment_scheme,GCIB Unit Trust Scheme,,,,,Funds: GCIB Money Market Fund; GCIB Fixed Income Fund; GCIB Multi- Asset Special Fund; GCIB Shariah Multi- Asset Special Fund; GCIB Shariah Fixed Income Fund,1
+collective_investment_scheme,CPF Unit Trust Funds,,,,,Funds: CPF Money Market Fund; CPF Bond Fund; CPF USD Money Market Fund; CPOF Balanced Fund; CPF Multi-Asset Special Fund (KES),1
+collective_investment_scheme,Arvocap Unit Trust Scheme,,,,,Funds: Arvocap Money Market Fund; Arvocap Ngao Fixed Income Distribution Fund; Arvocap Almasi Fixed Income Accumulation Fund; Arvocap Eurofix Fixed Income Special Fund; Arvocap Thamani Equity Fund; Arvocap Africa Equity Special Fund; Arvocap Global Equity Special Fund; Arvocap Multi Asset Strategy Special Fund(USD); Arvocap Global Sharia Equity Special Fund (USD); Arvocap Mabruk Sharia Special Fund(KES),1
+collective_investment_scheme,MyXENO Unit Trust Scheme,,,,,Funds: Xeno Kenya Money Market Fund; Xeno Kenya Bond Fund; Xeno Kenya Regional East Africa Equity Fund; XENO Kenya East Africa Equity Fund (KES); XENO Kenya Money Market Fund (USD); XENO Kenya Fixed Income Fund (USD); XENO Kenya International Equity Special Fund (USD),1
+collective_investment_scheme,GCIB Unit Trust Funds,,,,,Funds: GulfCap Fixed Income Fund; GulfCap Money Market Fund; GCIB Multi- Asset Special Fund; GCIB Shariah Multi- Asset Special Fund; GCIB Shariah Fixed Income Fund,1
+collective_investment_scheme,VCG Offshore Opportunities Special Fund,,,,,Funds: Offshore Equities Megatrends Special Fund (USD); Offshore Diversified Special Fund of Funds (USD); Offshore Fixed Income Special Fund (USD); Offshore Technology Revolution Special Fund (USD); Diversified Commodities Special Fund (USD); Offshore Multi-Asset Special Fund (USD); Managed Oil Special Fund (USD); Managed Agriculture Special Fund (USD,1
+collective_investment_scheme,Octagon Unit Trust Scheme,,,,,Funds: Octagon Money Market Fund; Octagon Balanced Fund; Octagon Equity Fund; Octagon Fixed Income Fund; Octagon USD Dollar Money Market Fund,1
+collective_investment_scheme,Ziidi Collective Investment Scheme,,,,,Funds: Ziidi Money Market Fund,1
+collective_investment_scheme,Ziidi Shariah Money Market Fund,,,,,,1
+collective_investment_scheme,Capital A Unit Trust Scheme,3/2025,,,,Funds: Capital A Rejesha Money Market Fund (KES); Capital A Rejesha Money Market Fund (USD); Capital A Rejesha Fixed Income Fund (KES); Capital A Rejesha Fixed Income Fund (USD); Capital A Rejesha Balanced Fund (KES); Capital A Rejesha Balanced Fund (USD); Capital A Rejesha Equity Fund (KES); Capital A Rejesha Equity Fund (USD); Capital A Multi Asset Strategy Special Fund (KES); Capital A Multi Asset Strategy Special Fund (USD),1
+collective_investment_scheme,Swala Capital Unit Trust Fund,4/2025,,,,Funds: Swala Money Market Fund; Swala Balanced Fund; Swala Equity Fund; CMA entry text: 'Swala Capital Limited for approval to register the Swala Capital Unit Trust Fund'; manager: Swala Capital Limited,1
+collective_investment_scheme,Globetec Unit Trust Scheme,5/2025,,,,Funds: Globetec Money Market Fund; Globetec Equity Fund; Globetec Fixed Income Fund; Globetec Dollar Fixed Income Fund; Globetec Multi-Asset Special Fund; Globetec Dollar Multi-Asset Special Fund; CMA entry text: 'Globetec Asset Managers Limited for Approval to register Globetec Unit Trust Scheme'; manager: Globetec Asset Managers Limited,1
+collective_investment_scheme,Tradiam Collective Investment Sche,6/2025,,,,Funds: Wekeza Money Market Fund (KES); Tradiam Fixed Income Fund (KES); Tradiam Fixed Income Fund (USD); Mfalme Money Market Fund (KES); Wekeza Fixed Income Fund (KES); Tau Fixed Income Fund (USD); name appears truncated in the CMA portal ('...Sche'),1
+collective_investment_scheme,Dry Associates Unit Trust Funds,,,,,Funds: Dry Associates Special High Yield Fund (KES); Dry Associates Money market Fund (KES); Dry Associates Money Market Fund (USD); Dry Associates SME Impact Debt Fund,1
+collective_investment_scheme,Zamara Unit Trust Scheme,,,,,Funds: Zamara Money Market Fund (KES); Zamara Money Market Fund (USD); Zamara Global Balanced Special Fund (USD); Zamara Fixed Income Fund (KES),1
+collective_investment_scheme,Ziidi Biashara Unit Trust,,,,,Funds: Ziidi Biashara Money Market Fund,1
+collective_investment_scheme,Kibaba Unit Trust Funds,3/2026,,,,Funds: Kibaba Multi-Asset Special Fund (KES); Kibaba Multi-Asset Special Fund (USD),1
+collective_investment_scheme,Pergamon Unit Trust Scheme,6/2026,,,https://pib.africa/,Funds: Pergamon Money Market Fund (KES); Pergamon Money Market Fund (USD); Pergamon Equity Fund; Pergamon Fixed Income Fund; Pergamon Balanced Fund; Pergamon Special Diversified Income Fund (KES),1
+collective_investment_scheme,Meridian Asset Management Scheme,7/2026,,,https://meridian.co.ke/,Funds: Selective Alpha Multi Asset Special Fund,1
+collective_investment_scheme,EDC Kenya Unit Trust Funds,8/2026,,,,Funds: EDC Kenya Balanced Fund; EDC Kenya KES Fixed Income Fund; EDC Kenya Dollar Fixed Income Fund; EDC Kenya Equity Fund; EDC Kenya Money Market Fund,1
+collective_investment_scheme,Faida Investment Bank Limited,1/2026,,,https://fib.co.ke/,CMA portal gives only the institution name for this approval; scheme name not stated,1
+collective_investment_scheme,Cinemark Unit Trust Fund,,,,,Funds: Cinemark KES Money Market Fund; Cinemark KES Fixed Income Fund; Cinemark USD Fixed Income Fund; Cinemark USD Special Fixed Income Fund; Cinemark KES Special Fixed Income Fund; Cinemark KES Multi-asset Special Fund; Cinemark USD Multi-asset Special Fund,1
+collective_investment_scheme,Karsis Unit Trust Fund,10/2026,,,,Funds: Zubari KES Money Market Fund; Zubari USD Money Market Fund; Zubari KES Fixed Income Fund; Zubari USD Fixed Income Fund; Zubari KES Multi-Asset Special Fund; Zubari USD Multi-Asset Special Fund; Zubari EUR Multi-Asset Special Fund; Zubari GBP Multi-Asset Special Fund; Zubari KES Private-Debt Special Fund; Zubari USD Private-Debt Special Fund; Zubari EUR Private-Debt Special Fund; Zubari GBP Private-Debt Special Fund,1
+collective_investment_scheme,Green Investment Fund,11/2026,,,,Funds: Alternative Investment Fund,1
+approved_esop,ARM Employee Share Ownership Plan,,,,,,1
+approved_esop,EABL Employee Share Ownership Plan,,,,https://www.eabl.com/,,1
+approved_esop,Equity Employee Share Ownership Scheme,,,,https://equitygroupholdings.com/,,1
+approved_esop,Housing Finance Employee Share Ownership Plan,,,,,,1
+approved_esop,I&M Bank Employee Share Ownership Plan,,,,https://www.imbankgroup.com/,,1
+approved_esop,KCB Employee Share Option Plan,,,,https://ke.kcbgroup.com/,,1
+approved_esop,Kenya Airways Employee Share Ownership Plan,,,,https://www.kenya-airways.com/,,1
+approved_esop,Kenya Airways 2017 Group Employee Share Ownership Scheme,,,,https://www.kenya-airways.com/,,1
+approved_esop,Safaricom Employee Share Ownership Plan,,,,https://www.safaricom.co.ke/,,1
+approved_esop,Scan group Employee Share Ownership Plan,,,,https://wpp-scangroup.com/,,1
+approved_esop,Car & General Employee Share Ownership Plan,,,,https://www.cargen.com/,,1
+approved_esop,Standard Group Limited Employee Share Ownership Plan,,,,https://www.standardmedia.co.ke/corporate/,,1
+approved_esop,Britam Holdings Plc Employee Share Ownership Plan,,,,https://ke.britam.com/,,1
+approved_esop,Nairobi Securities Exchange Plc Employee Share Ownership Plan – Unit Trust,,,,https://www.nse.co.ke/,,1
+approved_esop,NCBA Group PLC Employee Share Ownership Plan,,,,,,1
+dealing_online_forex_broker,Empire FX Trade Limited,203,,,https://empirefx.com/,,1
+dealing_online_forex_broker,CC Kenya Securities Limited (Trading as Capital.com),244,,P.O Box 12189-00100 Nairobi,https://capital.com,,1
+corporate_trustee,Kingsland Court Trustee Services Limited,207,,Corner Mara/Hill Lane Upper hill NAIROBI,,,1
+corporate_trustee,Standard Chartered Bank Kenya Limited,222,,P.O Box 30003-00100 Nairobi,,,1
+corporate_trustee,NCBA Bank Kenya Plc,224,,P.O Box 44599-00100 Nairobi,,,1
+corporate_trustee,MTC Trust and Corporate Services Limited,225,,P.O Box 1071-00200 Nairobi,,,1
+corporate_trustee,Stanbic Bank Kenya Limited,228,,P.O. Box 30550-00100 Nairobi,,,1
+corporate_trustee,Co-operative Bank of Kenya Limited,231,,P.O Box 48231-00100 Nairobi,,,1
+corporate_trustee,Enwealth Trustee Services Limited,263,,P.O. Box 52840- 00100 NAIROBI,https://enwealth.co.ke/,,1
+corporate_trustee,KCB Corporate Trustee Limited,265,,P.O. Box 48400- 00100 NAIROBI,https://ke.kcbgroup.com/for-you/investments,,1
+corporate_trustee,Co-op Bank Kenya Limited,231,,P.O Box 48231-00100 NAIROBI,,,1
+corporate_trustee,Liaison Wealth Limited,275,,P.O BOX 58013-00200 NAIROBI,,,1
+intermediary_service_platform_provider,Givva Wealthtech Limited,215,,"P.O. Box 10049-00100, Nairobi",,,1
+intermediary_service_platform_provider,Jipay Payment Solutions Limited,236,,P.O. Box 63508-00619 Nairobi,,,1
+intermediary_service_platform_provider,Sycamore Capital Kenya Limited,238,,P.O. Box 46223-00100 Nairobi,,,1
+intermediary_service_platform_provider,Airtel Money Kenya Limited,245,,P.O. Box 73146-00200 Nairobi,https://www.airtel.africa,,1
+intermediary_service_platform_provider,Safaricom Plc,246,,P.O Box 66827-00800 Nairobi,https://www.safaricom.co.ke,,1
+intermediary_service_platform_provider,I &M Capital Limited,250,,P.O. Box 30238-00100 NAIROBI,https://www.imbankgroup.com/ke/investments/im-capital/,,1
+intermediary_service_platform_provider,Moneto Ventures Limited,257,,"Lot 068, Mukima Drive NAIROBI",,,1
+intermediary_service_platform_provider,Pesa Bridge Ventures Limited,261,,PO Box 14448- 00100 NAIROBI,,,1
+intermediary_service_platform_provider,Frictionless Enterprises Limited,272,,P.O Box 77708 NAIROBI,,,1
+intermediary_service_platform_provider,Rubiani Capital Limited,276,,P.O BOX 10066-00100 NAIROBI,http://www.rubianiwealth.com,,1
+venture_capital,E-GUM Ventures Limited,256,,P.O. Box 48021-00200 NAIROBI,,,1

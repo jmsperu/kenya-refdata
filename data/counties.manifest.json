@@ -1,0 +1,19 @@
+{
+  "key": "counties",
+  "name": "Counties of Kenya",
+  "version": "0.1.0",
+  "source": "Constitution of Kenya 2010, First Schedule (Counties) [names]; IEBC, Registered Voters per County Assembly Ward for the 2022 General Election [codes]",
+  "source_url": "https://klrc.go.ke/index.php/constitution-of-kenya/163-schedules-schedules/165-first-schedule-counties/434-1-counties",
+  "other_sources": [
+    "https://www.iebc.or.ke/docs/rov_per_caw.pdf",
+    "https://www.iebc.or.ke/docs/rov_per_constituency.pdf"
+  ],
+  "as_of": "2010-08-27",
+  "retrieved": "2026-11-01",
+  "row_count": 47,
+  "sha256": "12f68b3ff0b5bb859d964a971340c46f8328d1c3bd5b3b52b7f4e073199b2ec3",
+  "natural_key": [
+    "code"
+  ],
+  "notes": "Codes 001-047 are the First Schedule order numbers, as used by IEBC (identical in both IEBC PDFs). Names follow the First Schedule as reproduced by the Kenya Law Reform Commission (klrc.go.ke); IEBC spells 006 as TAITA TAVETA and 013 as THARAKA - NITHI. as_of = date the Constitution was promulgated."
+}
